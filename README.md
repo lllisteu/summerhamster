@@ -1,0 +1,2 @@
+# summerhamster
+Domain blocking data
