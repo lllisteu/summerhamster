@@ -1,0 +1,7 @@
+# label: chartbeat
+# wikidata_id: Q22907179
+# tags: tracking
+
+ping.chartbeat.net
+static.chartbeat.com
+mab.chartbeat.com

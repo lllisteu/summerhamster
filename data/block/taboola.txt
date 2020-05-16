@@ -1,0 +1,28 @@
+# label: taboola
+# wikidata_id: Q18154756
+# harvest: (\S*taboola\S*)
+
+15.taboola.com
+actions-am.taboola.com
+am-match.taboola.com
+am-trc-events.taboola.com
+am-vid-events.taboola.com
+cdn.taboola.com
+cds.taboola.com
+f2.taboola.map.fastly.net
+helpers-taboola-com.taboola.prod2.reblaze.com
+helpers.taboola.com
+images.taboola.com
+imprammp.taboola.com
+pages.taboola.com
+prod.taboola.map.fastly.net
+taboola-supply-partners.tremorhub.com
+taboola.com
+taboola.map.fastly.net
+taboola.mktoweb.com
+tls13.taboola.map.fastly.net
+trc.taboola.com
+trc.taboola.map.fastly.net
+vidstat.taboola.com
+wf.taboola.com
+www.taboola.com
