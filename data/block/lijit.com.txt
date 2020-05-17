@@ -1,0 +1,6 @@
+# label: lijit.com
+# tags: advertising,malware
+# harvest: (\S*lijit\S*)
+
+ap.lijit.com
+vap.lijit.com

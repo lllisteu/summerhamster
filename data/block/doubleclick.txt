@@ -1,0 +1,14 @@
+# label: doubleclick
+# wikidata_id: Q1053674
+# tags: advertising,google
+# harvest: (\S*doubleclick\S*)
+
+ad.doubleclick.net
+adclick.g.doubleclick.net
+dart.l.doubleclick.net
+googleads.g.doubleclick.net
+pagead.l.doubleclick.net
+partnerad.l.doubleclick.net
+securepubads.g.doubleclick.net
+static.doubleclick.net
+stats.g.doubleclick.net

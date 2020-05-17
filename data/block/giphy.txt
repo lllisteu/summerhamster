@@ -1,0 +1,10 @@
+# label: giphy
+# wikidata_id: Q17054335
+# link: https://daringfireball.net/linked/2020/05/15/facebook-giphy
+# tags: facebook,tracking
+# harvest: (\S*giphy\S*)
+
+api.giphy.com
+giphy.com
+giphyscripts.s3.amazonaws.com
+pingback.giphy.com
