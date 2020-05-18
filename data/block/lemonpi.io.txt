@@ -1,0 +1,11 @@
+# label   : lemonpi.io
+# tags    : advertising
+# harvest : lemonpi
+
+assets.lemonpi.io
+cases.lemonpi.io
+creative-content.lemonpi.io
+creative-libraries.lemonpi.io
+d.lemonpi.io
+log.lemonpi.io
+manage.lemonpi.io

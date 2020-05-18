@@ -1,0 +1,12 @@
+# label       : hotjar.com
+# wikidata_id : Q85767392
+# tags        : tracking
+# harvest     : hotjar
+
+in.hotjar.com
+insights.hotjar.com
+script.hotjar.com
+static.hotjar.com
+vars.hotjar.com
+vc.hotjar.io
+vc.hotjar.io.c.section.io

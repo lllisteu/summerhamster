@@ -1,0 +1,9 @@
+# label : google-ads
+# tags  : advertising,google
+
+ade.googlesyndication.com
+adservice.google.com
+adservice.google.nl
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+www.googleadservices.com

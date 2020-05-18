@@ -1,0 +1,5 @@
+# label : crazyegg.com
+# tags  : tracking
+
+script.crazyegg.com
+tracking.crazyegg.com

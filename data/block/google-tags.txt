@@ -1,0 +1,7 @@
+# label       : google-tagmanager
+# wikidata_id : Q11775280
+# tags        : tracking,google
+
+www-googletagmanager.l.google.com
+www.googletagmanager.com
+www.googletagservices.com

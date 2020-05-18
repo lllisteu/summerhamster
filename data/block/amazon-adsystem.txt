@@ -1,0 +1,8 @@
+# label   : amazon-adsystem
+# tags    : advertising,amazon
+# harvest : amazon-adsystem
+
+aax-eu.amazon-adsystem.com
+aax.amazon-adsystem.com
+c.amazon-adsystem.com
+s.amazon-adsystem.com

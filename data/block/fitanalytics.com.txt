@@ -1,0 +1,7 @@
+# label   : fitanalytics.com
+# tags    : tracking
+# harvest : (\S*fitanalytics\S*)
+
+metrics-nl.fitanalytics.com
+metrics.fitanalytics.com
+widget.fitanalytics.com
