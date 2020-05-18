@@ -1,6 +1,6 @@
-# label: ster.nl
-# wikidata_id: Q2839773
-# tags: advertising
+# label       : ster.nl
+# wikidata_id : Q2839773
+# tags        : advertising
 
 adcdn.ster.nl
 ads-ster.adhese.com

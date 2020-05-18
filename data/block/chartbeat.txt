@@ -1,6 +1,7 @@
-# label: chartbeat
-# wikidata_id: Q22907179
-# tags: tracking
+# label       : chartbeat
+# wikidata_id : Q22907179
+# tags        : tracking
+# harvest     : chartbeat
 
 ping.chartbeat.net
 static.chartbeat.com

@@ -1,6 +1,7 @@
-# label: google-analytics
-# wikidata_id: Q220577
-# tags: tracking,google
+# label       : google-analytics
+# wikidata_id : Q220577
+# tags        : tracking,google
+# harvest     : google-analytics
 
 ssl.google-analytics.com
 www.google-analytics.com

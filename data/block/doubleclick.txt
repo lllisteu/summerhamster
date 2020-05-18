@@ -1,7 +1,7 @@
-# label: doubleclick
-# wikidata_id: Q1053674
-# tags: advertising,google
-# harvest: (\S*doubleclick\S*)
+# label       : doubleclick
+# wikidata_id : Q1053674
+# tags        : advertising,google
+# harvest     : doubleclick
 
 ad.doubleclick.net
 adclick.g.doubleclick.net

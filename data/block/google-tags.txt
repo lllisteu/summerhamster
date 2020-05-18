@@ -1,6 +1,7 @@
 # label       : google-tagmanager
 # wikidata_id : Q11775280
 # tags        : tracking,google
+# harvest     : googletag
 
 www-googletagmanager.l.google.com
 www.googletagmanager.com

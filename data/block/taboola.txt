@@ -1,6 +1,6 @@
-# label: taboola
-# wikidata_id: Q18154756
-# harvest: (\S*taboola\S*)
+# label       : taboola
+# wikidata_id : Q18154756
+# harvest     : taboola
 
 15.taboola.com
 actions-am.taboola.com

@@ -1,7 +1,7 @@
-# label: outbrain
-# wikidata_id: Q17051632
-# tags: advertising
-# harvest: (\S*outbrain\S*)
+# label       : outbrain
+# wikidata_id : Q17051632
+# tags        : advertising
+# harvest     : outbrain
 
 images.outbrainimg.com
 outbrainimg.com

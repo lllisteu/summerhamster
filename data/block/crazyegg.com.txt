@@ -1,5 +1,6 @@
-# label : crazyegg.com
-# tags  : tracking
+# label   : crazyegg.com
+# tags    : tracking
+# harvest : crazyegg
 
 script.crazyegg.com
 tracking.crazyegg.com

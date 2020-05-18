@@ -1,6 +1,6 @@
 # label   : moat.com
 # tags    : tracking,oracle
-# harvest : (\S*moatads\S*)
+# harvest : moatads
 
 apx.moatads.com
 mb.moatads.com
