@@ -1,1 +1,7 @@
-#harvest:skimresources.com
+# harvest : skimresources.com
+
+p.skimresources.com
+r.skimresources.com
+s.skimresources.com
+t.skimresources.com
+x.skimresources.com

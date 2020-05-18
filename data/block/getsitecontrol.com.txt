@@ -1,1 +1,6 @@
-#harvest:getsitecontrol
+# harvest : getsitecontrol
+
+assets.getsitecontrol.com
+dash.getsitecontrol.com
+l.getsitecontrol.com
+media.getsitecontrol.com

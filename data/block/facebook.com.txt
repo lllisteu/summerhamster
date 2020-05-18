@@ -1,4 +1,8 @@
-#label:facebook
-# wikidata_id: Q355
-#tags:facebook,tracking,advertising
-# harvest : facebook
+# label       : facebook
+# wikidata_id : Q355
+# tags        : facebook,tracking,advertising
+# harvest     : facebook
+
+connect.facebook.net
+star-mini.c10r.facebook.com
+www.facebook.com

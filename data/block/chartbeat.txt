@@ -3,6 +3,6 @@
 # tags        : tracking
 # harvest     : chartbeat
 
+mab.chartbeat.com
 ping.chartbeat.net
 static.chartbeat.com
-mab.chartbeat.com

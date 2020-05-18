@@ -3,6 +3,9 @@
 # harvest : amazon-adsystem
 
 aax-eu.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 c.amazon-adsystem.com
+fls-na.amazon-adsystem.com
 s.amazon-adsystem.com
+z-na.amazon-adsystem.com

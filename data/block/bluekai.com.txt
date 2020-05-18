@@ -1,4 +1,7 @@
-#label:bluekai.com
-# wikidata_id: Q21178584
-#tags:oracle,tracking,advertising
-#harvest:bluekai
+# label       : bluekai.com
+# wikidata_id : Q21178584
+# tags        : oracle,tracking,advertising
+# harvest     : bluekai
+
+stags.bluekai.com
+tags.bluekai.com
