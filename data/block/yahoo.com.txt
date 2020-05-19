@@ -1,0 +1,4 @@
+#label:yahoo.com
+# wikidata_id: Q37093
+#tags:tracking,advertising
+#harvest: (ads|adserver|adspecs|advertising|analytics)\S*\.yahoo
