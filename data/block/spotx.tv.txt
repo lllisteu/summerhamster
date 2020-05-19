@@ -1,0 +1,4 @@
+#label:spotx.tv
+# wikidata_id: Q22909017
+#tags:advertising
+#harvest:spotxchange
