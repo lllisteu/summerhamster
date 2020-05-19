@@ -1,0 +1,5 @@
+# label       : mailchimp.com
+# wikidata_id : Q6735673
+# tags        : popups
+
+downloads.mailchimp.com
