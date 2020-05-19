@@ -3,6 +3,16 @@
 # tags        : advertising
 # harvest     : outbrain
 
+amplify.outbrain.com
+amplifypixel.outbrain.com
+images.outbrain.com
 images.outbrainimg.com
+log.outbrain.com
+log.outbrainimg.com
+mcdp-chidc2.outbrain.com
+odb.outbrain.com
 outbrainimg.com
+tcheck.outbrainimg.com
+tr.outbrain.com
+vrt.outbrain.com
 widgets.outbrain.com

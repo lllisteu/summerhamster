@@ -1,4 +1,9 @@
-#label:spotx.tv
-# wikidata_id: Q22909017
-#tags:advertising
-#harvest:spotxchange
+# label       : spotx.tv
+# wikidata_id : Q22909017
+# tags        : advertising
+# harvest     : spotxchange
+
+geo.search-gtm.spotxchange.com.akadns.net
+search.spotxchange.com
+sync.search-gtm.spotxchange.com.akadns.net
+sync.search.spotxchange.com

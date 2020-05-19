@@ -3,14 +3,25 @@
 # tags        : advertising,google
 # harvest     : doubleclick
 
+3573281.fls.doubleclick.net
+4564105.fls.doubleclick.net
+6100125.fls.doubleclick.net
+8522212.fls.doubleclick.net
+9300932.fls.doubleclick.net
 9524248.fls.doubleclick.net
+9813165.fls.doubleclick.net
 ad.doubleclick.net
 adclick.g.doubleclick.net
 cm.g.doubleclick.net
 dart.l.doubleclick.net
+fls.doubleclick.net
 googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
 pagead.l.doubleclick.net
+pagead46.l.doubleclick.net
 partnerad.l.doubleclick.net
+pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
+static-doubleclick-net.l.google.com
 static.doubleclick.net
 stats.g.doubleclick.net

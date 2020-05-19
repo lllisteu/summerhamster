@@ -4,5 +4,6 @@
 # harvest     : chartbeat
 
 mab.chartbeat.com
+mabping.chartbeat.net
 ping.chartbeat.net
 static.chartbeat.com

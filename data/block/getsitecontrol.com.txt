@@ -1,6 +1,10 @@
 # harvest : getsitecontrol
 
+app.getsitecontrol.com
 assets.getsitecontrol.com
 dash.getsitecontrol.com
 l.getsitecontrol.com
 media.getsitecontrol.com
+s2.getsitecontrol.com
+st.getsitecontrol.com
+widgets.getsitecontrol.com

@@ -1,3 +1,10 @@
-#label:carbonads.net
-#tags:advertising
-#harvest:carbonads|buysellads
+# label   : carbonads.net
+# tags    : advertising
+# harvest : carbonads|buysellads
+
+carbonads.bsa.netdna-cdn.com
+cdn.carbonads.com
+cdn4.buysellads.net
+m.servedby-buysellads.com
+srv.buysellads.com
+srv.carbonads.net

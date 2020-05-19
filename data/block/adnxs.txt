@@ -9,6 +9,8 @@ cdn.adnxs.com
 fra1-ib.adnxs.com
 ib.adnxs.com
 ib.anycast.adnxs.com
+prebid.adnxs.com
 rb.adnxs.com
 secure-adnxs.edgekey.net
 secure.adnxs.com
+sharethrough.adnxs.com

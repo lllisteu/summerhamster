@@ -3,6 +3,7 @@
 # harvest : moatads
 
 apx.moatads.com
+geo.moatads.com
 mb.moatads.com
 moatads.com
 px.moatads.com

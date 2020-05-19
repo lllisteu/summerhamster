@@ -1,2 +1,9 @@
-#tags:tracking
-#harvest:krxd
+# tags    : tracking
+# harvest : krxd
+
+apiservices.krxd.net
+beacon.krxd.net
+cdn-fastly.krxd.net
+cdn.krxd.net
+consumer.krxd.net
+jslog.krxd.net

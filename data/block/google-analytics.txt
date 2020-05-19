@@ -3,5 +3,8 @@
 # tags        : tracking,google
 # harvest     : google-analytics
 
+google-analytics.com
+ssl-google-analytics.l.google.com
 ssl.google-analytics.com
+www-google-analytics.l.google.com
 www.google-analytics.com

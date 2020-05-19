@@ -1,4 +1,13 @@
-#label:cxense.com
-# wikidata_id: Q5014902
-#tags:advertising,tracking
-#harvest:cxense
+# label       : cxense.com
+# wikidata_id : Q5014902
+# tags        : advertising,tracking
+# harvest     : cxense
+
+api.cxense.com
+cdn.cxense.com
+comcluster.cxense.com
+csyn.cxense.com
+id.cxense.com
+scdn.cxense.com
+scomcluster.cxense.com
+tsrid.cxense.com

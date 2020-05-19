@@ -1,4 +1,12 @@
-#label:criteo.com
+# label       : criteo.com
 # wikidata_id : Q2814507
-#tags:advertising
-#harvest:criteo
+# tags        : advertising
+# harvest     : criteo
+
+bidder.criteo.com
+csm.fr.eu.criteo.net
+csm.nl.eu.criteo.net
+gum.am5.vip.prod.criteo.com
+gum.criteo.com
+sslwidget.criteo.com
+static.criteo.net

@@ -1,2 +1,6 @@
-#tags:advertising
-# harvest:stickyadstv
+# tags    : advertising
+# harvest : stickyadstv
+
+ads.stickyadstv.com
+cidr1.ads.stickyadstv.com.akadns.net
+ip1.ads.stickyadstv.com.akadns.net

@@ -1,3 +1,6 @@
-#label:improvedigital.com
-#tags:advertising,tracking
-#harvest:360yield\.com
+# label   : improvedigital.com
+# tags    : advertising,tracking
+# harvest : 360yield\.com
+
+ad.360yield.com
+ice.360yield.com
