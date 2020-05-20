@@ -2,4 +2,6 @@
 # tags    : tracking
 # harvest : parsely
 
+api.parsely.com
+cdn.parsely.com
 currents.parsely.com

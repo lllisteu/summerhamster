@@ -4,3 +4,4 @@
 
 aaas.demdex.net
 dpm.demdex.net
+nbcu.demdex.net
