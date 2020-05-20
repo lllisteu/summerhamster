@@ -1,3 +1,5 @@
-#label:parsely.com
-#tags:tracking
-#harvest:parsely
+# label   : parsely.com
+# tags    : tracking
+# harvest : parsely
+
+currents.parsely.com

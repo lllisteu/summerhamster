@@ -1,4 +1,7 @@
-#label:mixpanel.com
-# wikidata_id: Q25048114
-#tags:tracking
-#harvest:mixpanel|mxpnl
+# label       : mixpanel.com
+# wikidata_id : Q25048114
+# tags        : tracking
+# harvest     : mixpanel|mxpnl
+
+api-js.mixpanel.com
+cdn.mxpnl.com

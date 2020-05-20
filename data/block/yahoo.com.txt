@@ -1,4 +1,13 @@
-#label:yahoo.com
-# wikidata_id: Q37093
-#tags:tracking,advertising
-#harvest: (ads|adserver|adspecs|advertising|analytics)\S*\.yahoo
+# label       : yahoo.com
+# wikidata_id : Q37093
+# tags        : tracking,advertising
+# harvest     : (ads|adserver|adspecs|advertising|analytics)\S*\.yahoo
+
+ads.yahoo.com
+ads.yap.yahoo.com
+cms.analytics.yahoo.com
+opus.analytics.yahoo.com
+service.idsync.analytics.yahoo.com
+sp.analytics.yahoo.com
+tag.idsync.analytics.yahoo.com
+ups.analytics.yahoo.com

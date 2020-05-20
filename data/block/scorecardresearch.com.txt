@@ -1,3 +1,5 @@
-#label:scorecardresearch.com
-#tags:tracking
-#harvest:scorecardresearch
+# label   : scorecardresearch.com
+# tags    : tracking
+# harvest : scorecardresearch
+
+sb.scorecardresearch.com

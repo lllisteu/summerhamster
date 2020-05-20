@@ -1,4 +1,7 @@
-#label:addthis.com
-# wikidata_id: Q352773
-#tags:tracking,oracle
-#harvest:addthis
+# label       : addthis.com
+# wikidata_id : Q352773
+# tags        : tracking,oracle
+# harvest     : addthis
+
+s7.addthis.com
+s8.addthis.com

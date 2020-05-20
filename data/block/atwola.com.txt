@@ -1,3 +1,6 @@
-#label:atwola.com
-#tags:advertising
-#harvest:atwola
+# label   : atwola.com
+# tags    : advertising
+# harvest : atwola
+
+at.atwola.com
+uk.at.atwola.com

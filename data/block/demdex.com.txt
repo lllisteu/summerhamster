@@ -1,3 +1,6 @@
-#label:demdex.com
-#tags:tracking,adobe
-#harvest:demdex
+# label   : demdex.com
+# tags    : tracking,adobe
+# harvest : demdex
+
+aaas.demdex.net
+dpm.demdex.net

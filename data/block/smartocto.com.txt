@@ -1,3 +1,7 @@
-#label:smartocto.com
-#tags:tracking
-#harvest:smartocto
+# label   : smartocto.com
+# tags    : tracking
+# harvest : smartocto
+
+api.smartocto.com
+measure.smartocto.com
+tentacles.smartocto.com
