@@ -1,0 +1,5 @@
+# label   : adobedtm.com
+# tags    : adobe,tracking
+# harvest : adobedtm
+
+assets.adobedtm.com
