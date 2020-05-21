@@ -1,3 +1,6 @@
 # label   : kissmetrics.com
 # tags    : tracking
 # harvest : kissmetrics
+
+scripts.kissmetrics.com
+trk.kissmetrics.com

@@ -4,4 +4,5 @@
 # harvest     : mixpanel|mxpnl
 
 api-js.mixpanel.com
+api.mixpanel.com
 cdn.mxpnl.com
