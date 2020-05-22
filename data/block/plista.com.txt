@@ -2,6 +2,7 @@
 # tags    : advertising
 # harvest : plista
 
+click.plista.com
 farm-de.plista.com
 farm-nl.plista.com
 farm.plista.com

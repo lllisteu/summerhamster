@@ -5,3 +5,6 @@
 
 ad.crwdcntrl.net
 bcp.crwdcntrl.net
+privacy.crwdcntrl.net
+sync.crwdcntrl.net
+tags.crwdcntrl.net

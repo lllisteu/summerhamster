@@ -1,0 +1,6 @@
+# label   : adthrive.com
+# tags    : tracking,advertising
+# harvest : adthrive
+
+ads.adthrive.com
+logger.adthrive.com
