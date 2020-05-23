@@ -1,4 +1,4 @@
-# label       : outbrain
+# label       : outbrain.com
 # wikidata_id : Q17051632
 # tags        : advertising
 # harvest     : outbrain

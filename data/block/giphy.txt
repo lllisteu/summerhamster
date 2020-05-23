@@ -1,4 +1,4 @@
-# label       : giphy
+# label       : giphy.com
 # wikidata_id : Q17054335
 # link        : https://daringfireball.net/linked/2020/05/15/facebook-giphy
 # tags        : facebook,tracking

@@ -1,7 +1,7 @@
 # label       : lotame.com
 # wikidata_id : Q60674846
 # tags        : tracking
-# harvest     : crwdcntrl
+# harvest     : crwdcntrl|lotame
 
 ad.crwdcntrl.net
 bcp.crwdcntrl.net

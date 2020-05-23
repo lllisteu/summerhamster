@@ -1,4 +1,4 @@
-# label       : taboola
+# label       : taboola.com
 # wikidata_id : Q18154756
 # harvest     : taboola
 

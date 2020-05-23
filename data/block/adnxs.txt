@@ -1,4 +1,4 @@
-# label   : adnxs
+# label   : adnxs.com
 # link    : https://www.theguardian.com/technology/2012/apr/23/adnxs-tracking-trackers-cookies-web-monitoring
 # tags    : advertising,tracking
 # harvest : adnxs

@@ -1,4 +1,4 @@
-# harvest : getsitecontrol
+# harvest : getsitecontrol.com
 
 app.getsitecontrol.com
 assets.getsitecontrol.com

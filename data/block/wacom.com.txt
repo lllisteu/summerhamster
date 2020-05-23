@@ -1,0 +1,4 @@
+# label   : wacom.com
+# tags    : appmetrics
+# link    : https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/
+# harvest : link\.wacom\.com
