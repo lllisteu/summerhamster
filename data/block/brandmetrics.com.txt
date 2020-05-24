@@ -1,0 +1,5 @@
+# label   : brandmetrics.com
+# harvest : brandmetrics
+
+cdn.brandmetrics.com
+collector.brandmetrics.com
