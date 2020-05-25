@@ -1,0 +1,10 @@
+# label       : quantcast.com
+# wikidata_id : Q4047758
+# tags        : tracking,advertising
+# harvest     : quant(?!cast)
+
+edge.quantserve.com
+global.px.quantserve.com
+pixel.quantserve.com
+rules.quantcount.com
+secure.quantserve.com

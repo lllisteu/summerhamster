@@ -1,0 +1,9 @@
+# label   : advertising.com
+# tags    : tracking,advertising
+# harvest : \.advertising
+
+ads.adaptv.advertising.com
+cmp.advertising.com
+guce.advertising.com
+log.adaptv.advertising.com
+video.adaptv.advertising.com
