@@ -1,0 +1,9 @@
+# label   : optinmonster.com
+# tags    : tracking,popups
+# harvest : optinmonster|opmnstr
+
+a.opmnstr.com
+a.optinmonster.com
+api.optinmonster.com
+app.optinmonster.com
+cdn.optinmonster.com

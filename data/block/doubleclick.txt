@@ -7,12 +7,14 @@
 4564105.fls.doubleclick.net
 5344202.fls.doubleclick.net
 6100125.fls.doubleclick.net
+8209809.fls.doubleclick.net
 8522212.fls.doubleclick.net
 9300932.fls.doubleclick.net
 9524248.fls.doubleclick.net
 9813165.fls.doubleclick.net
 ad.doubleclick.net
 adclick.g.doubleclick.net
+bid.g.doubleclick.net
 cm.g.doubleclick.net
 dart.l.doubleclick.net
 fls.doubleclick.net

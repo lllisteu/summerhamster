@@ -1,0 +1,8 @@
+# label       : optimizely.com
+# wikidata_id : Q17073302
+# tags        : tracking,advertising
+# harvest     : optimizely
+
+cdn.optimizely.com
+cdn3.optimizely.com
+logx.optimizely.com

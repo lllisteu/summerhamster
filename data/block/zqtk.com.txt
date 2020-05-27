@@ -1,0 +1,5 @@
+# label   : zqtk.com
+# tags    : cloaking
+# harvest : zqtk
+
+segment-data.zqtk.net

@@ -1,0 +1,6 @@
+# label   : segment.com
+# tags    : tracking
+# harvest : segment
+
+api.segment.io
+cdn.segment.com
