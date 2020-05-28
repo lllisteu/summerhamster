@@ -3,3 +3,4 @@
 # harvest : casale
 
 as-sec.casalemedia.com
+ssum-sec.casalemedia.com

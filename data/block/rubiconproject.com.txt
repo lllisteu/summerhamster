@@ -1,0 +1,7 @@
+# label       : rubiconproject.com
+# wikidata_id : Q4411116
+# tags        : advertising
+# harvest     : rubicon
+
+eus.rubiconproject.com
+secure-assets.rubiconproject.com

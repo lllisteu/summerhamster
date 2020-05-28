@@ -1,0 +1,7 @@
+# label       : pubmatic.com
+# wikidata_id : Q28172343
+# tags        : tracking,advertising
+# harvest     : pubmatic
+
+ads.pubmatic.com
+image2.pubmatic.com

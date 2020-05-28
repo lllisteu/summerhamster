@@ -1,0 +1,9 @@
+# label   : gumgum.com
+# tags    : advertising
+# harvest : gumgum
+
+aba.gumgum.com
+c.gumgum.com
+g2.gumgum.com
+gumgum.com
+js.gumgum.com

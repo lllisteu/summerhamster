@@ -1,4 +1,7 @@
-# label : paddle.com
-# tags  : appmetrics
+# label   : paddle.com
+# tags    : appmetrics
+# harvest : paddle
 
+checkout.paddle.com
 data.paddle.com
+v3.paddleapi.com

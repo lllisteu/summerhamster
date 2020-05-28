@@ -3,4 +3,5 @@
 # harvest : bombora|ml314
 
 in.ml314.com
+ml314.com
 sentry.bombora.com
