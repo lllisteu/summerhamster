@@ -1,0 +1,6 @@
+# label   : 313.nl
+# notes   : Part of Sanoma
+# tags    : tracking,cloaking
+# harvest : 313\.nl
+
+beacon.dev.bd.313.nl

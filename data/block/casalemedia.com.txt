@@ -1,0 +1,5 @@
+# label   : casalemedia.com
+# tags    : tracking,advertising
+# harvest : casale
+
+as-sec.casalemedia.com

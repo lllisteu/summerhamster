@@ -1,0 +1,5 @@
+# label   : tealium.com
+# tags    : tracking
+# harvest : tealium|tiqcdn
+
+tags.tiqcdn.com

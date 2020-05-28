@@ -1,11 +1,12 @@
 # label       : cxense.com
 # wikidata_id : Q5014902
 # tags        : advertising,tracking
-# harvest     : cxense
+# harvest     : cxense|cxpublic
 
 api.cxense.com
 cdn.cxense.com
 comcluster.cxense.com
+csm.cxpublic.com
 csyn.cxense.com
 id.cxense.com
 scdn.cxense.com
