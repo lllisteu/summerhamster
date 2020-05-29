@@ -1,0 +1,6 @@
+# label       : 33across.com
+# wikidata_id : Q85738240
+# tags        : tracking,advertising
+# harvest     : 33across
+
+pixel.33across.com

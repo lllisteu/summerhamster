@@ -1,7 +1,8 @@
 # label       : bluekai.com
 # wikidata_id : Q21178584
-# tags        : oracle,tracking,advertising
-# harvest     : bluekai
+# tags        : oracle,tracking,advertising,cloaking
+# harvest     : bluekai|bkrtx
 
 stags.bluekai.com
+tags.bkrtx.com
 tags.bluekai.com

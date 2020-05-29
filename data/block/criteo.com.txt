@@ -4,6 +4,7 @@
 # harvest     : criteo
 
 bidder.criteo.com
+cas.criteo.com
 csm.fr.eu.criteo.net
 csm.nl.eu.criteo.net
 gum.am5.vip.prod.criteo.com

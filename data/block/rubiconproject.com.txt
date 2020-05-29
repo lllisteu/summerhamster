@@ -4,4 +4,6 @@
 # harvest     : rubicon
 
 eus.rubiconproject.com
+fastlane.rubiconproject.com
+prebid-server.rubiconproject.com
 secure-assets.rubiconproject.com

@@ -1,12 +1,13 @@
 # label       : facebook.com
 # wikidata_id : Q355
 # tags        : facebook,tracking,advertising
-# harvest     : facebook
+# harvest     : facebook|fbcdn
 
 api.facebook.com
 connect.facebook.net
 graph.facebook.com
 instagram.c10r.facebook.com
+scontent-iad3-1.xx.fbcdn.net
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
 www.facebook.com

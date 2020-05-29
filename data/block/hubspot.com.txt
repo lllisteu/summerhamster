@@ -1,6 +1,8 @@
 # label : hubspot.com
 # link  : https://knowledge.hubspot.com/reports/what-is-the-hs-scripts-embed-code-loading-on-my-website
-# tags  : tracking
+# tags  : tracking,cloaking
 
 js.hs-analytics.net
+js.hsadspixel.net
+js.hsleadflows.net
 track.hubspot.com

@@ -4,4 +4,5 @@
 # harvest     : pubmatic
 
 ads.pubmatic.com
+gads.pubmatic.com
 image2.pubmatic.com

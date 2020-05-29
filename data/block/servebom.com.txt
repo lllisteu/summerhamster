@@ -1,0 +1,6 @@
+# label   : servebom.com
+# tags    : tracking,advertising,cloaking
+# harvest : servebom
+
+ads.servebom.com
+pixel.servebom.com
