@@ -1,4 +1,3 @@
-# tags    : blockerblocking
-# harvest : acidpigs
-
-acidpigs.com
+# label      : admiral
+# tags       : blockerblocking,cloaking
+# transclude : https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt

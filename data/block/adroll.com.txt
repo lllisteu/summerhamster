@@ -1,0 +1,6 @@
+# label   : adroll.com
+# tags    : tracking,advertising
+# harvest : adroll
+
+s.adroll.com
+wildcard.adroll.com.edgekey.net
