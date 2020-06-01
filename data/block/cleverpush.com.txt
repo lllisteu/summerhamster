@@ -1,0 +1,7 @@
+# label   : cleverpush.com
+# tags    : popups,tracking
+# harvest : cleverpush
+
+api.cleverpush.com
+geoip-api.cleverpush.com
+static.cleverpush.com

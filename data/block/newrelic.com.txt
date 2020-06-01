@@ -1,0 +1,5 @@
+# label   : newrelic.com
+# tags    : tracking
+# harvest : newrelic
+
+js-agent.newrelic.com
