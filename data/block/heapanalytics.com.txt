@@ -1,0 +1,6 @@
+# label   : heapanalytics.com
+# tags    : tracking
+# harvest : heapanalytics|heap
+
+cdn.heapanalytics.com
+heapanalytics.com

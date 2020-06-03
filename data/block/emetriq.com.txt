@@ -1,0 +1,6 @@
+# label   : emetriq.com
+# tags    : tracking,advertising
+# harvest : emetriq
+
+cdn.emetriq.de
+dyn.emetriq.de

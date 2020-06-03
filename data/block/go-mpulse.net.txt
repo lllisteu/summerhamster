@@ -1,0 +1,6 @@
+# label   : go-mpulse.net
+# tags    : tracking,akamai
+# harvest : mpulse
+
+c.go-mpulse.net
+s.go-mpulse.net

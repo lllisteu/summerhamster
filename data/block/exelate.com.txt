@@ -1,0 +1,7 @@
+# label   : exelate.com
+# tags    : tracking,advertising,nielsen
+# harvest : exelat
+
+load77.exelator.com
+loadus.exelator.com
+optout.exelator.com

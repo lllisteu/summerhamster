@@ -28,3 +28,4 @@ securepubads.g.doubleclick.net
 static-doubleclick-net.l.google.com
 static.doubleclick.net
 stats.g.doubleclick.net
+www.doubleclickbygoogle.com

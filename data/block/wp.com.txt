@@ -1,0 +1,6 @@
+# label       : wp.com
+# wikidata_id : Q2001888
+# tags        : tracking
+
+pixel.wp.com
+stats.wp.com

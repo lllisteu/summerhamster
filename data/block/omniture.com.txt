@@ -4,8 +4,11 @@
 # harvest     : omniture|omtrdc|2o7
 
 _mboxedge26.tt.omtrdc.net
+bol.com.ssl.d1.sc.omtrdc.net
 faz.tt.omtrdc.net
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
+libertyglobalpaneu.tt.omtrdc.net
 mboxedge37.tt.omtrdc.net
 oracle.112.2o7.net
+upc.d2.sc.omtrdc.net
 vrt.sc.omtrdc.net
