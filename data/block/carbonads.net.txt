@@ -7,5 +7,6 @@ cdn-s2s.buysellads.net
 cdn.carbonads.com
 cdn4.buysellads.net
 m.servedby-buysellads.com
+s3.buysellads.com
 srv.buysellads.com
 srv.carbonads.net

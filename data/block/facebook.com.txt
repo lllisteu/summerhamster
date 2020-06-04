@@ -5,6 +5,7 @@
 
 api.facebook.com
 connect.facebook.net
+facebook.com
 graph.facebook.com
 instagram.c10r.facebook.com
 scontent-iad3-1.xx.fbcdn.net

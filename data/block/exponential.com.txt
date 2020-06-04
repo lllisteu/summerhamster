@@ -1,0 +1,7 @@
+# label   : exponential.com
+# tags    : tracking,advertising
+# harvest : exponential|tribalfusion
+
+a.tribalfusion.com
+s.tribalfusion.com
+tags.expo9.exponential.com
