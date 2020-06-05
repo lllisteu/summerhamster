@@ -1,0 +1,6 @@
+# label   : media.net
+# tags    : tracking,advertising
+# harvest : (^|\.)media\.net
+
+hbx.media.net
+prebid.media.net

@@ -1,0 +1,7 @@
+# label   : bouncex.com
+# tags    : tracking,advertising
+# harvest : bounce(e?)x
+
+api.bounceexchange.com
+assets.bounceexchange.com
+tag.bounceexchange.com
