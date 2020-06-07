@@ -1,0 +1,6 @@
+# label   : pubmine.com
+# tags    : advertising
+# harvest : pubmine
+
+c0.pubmine.com
+s.pubmine.com

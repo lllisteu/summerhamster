@@ -1,0 +1,7 @@
+# label   : sonobi.com
+# tags    : advertising
+# harvest : sonobi
+
+apex.go.sonobi.com
+mtrx.go.sonobi.com
+prod.sonobi-go.map.fastly.net

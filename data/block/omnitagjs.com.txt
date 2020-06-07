@@ -1,0 +1,6 @@
+# label   : omnitagjs.com
+# tags    : tracking,advertising
+# harvest : omnitagjs
+
+hb-api-fra02.omnitagjs.com
+hb-api.omnitagjs.com

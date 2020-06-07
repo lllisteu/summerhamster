@@ -6,6 +6,7 @@
 api.cxense.com
 cdn.cxense.com
 comcluster.cxense.com
+content-thumbnail.cxpublic.com
 csm.cxpublic.com
 csyn.cxense.com
 id.cxense.com
