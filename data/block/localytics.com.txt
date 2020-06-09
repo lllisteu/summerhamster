@@ -1,0 +1,7 @@
+# label   : localytics.com
+# tags    : tracking,advertising
+# harvest : localytics
+
+analytics.localytics.com
+manifest.localytics.com
+profile.localytics.com

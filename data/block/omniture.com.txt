@@ -1,6 +1,6 @@
 # label       : omniture.com
 # wikidata_id : Q7090416
-# tags        : tracking,adobe,cloaking
+# tags        : tracking,Adobe,cloaking
 # harvest     : omniture|omtrdc|2o7
 
 _mboxedge26.tt.omtrdc.net

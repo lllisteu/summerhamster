@@ -1,0 +1,5 @@
+# label   : admantx.com
+# tags    : tracking,advertising,Integral
+# harvest : admantx
+
+usasync01.admantx.com

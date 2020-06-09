@@ -1,6 +1,6 @@
 # label       : adsafe
 # wikidata_id : Q19903345
-# tags        : advertising
+# tags        : advertising,Integral
 # harvest     : adsafeprotected
 
 cdn.adsafeprotected.com

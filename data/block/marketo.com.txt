@@ -1,6 +1,6 @@
 # label       : marketo.com
 # wikidata_id : Q6770934
-# tags        : tracking,adobe
+# tags        : tracking,Adobe
 # harvest     : marketo
 
 app-ab13.marketo.com

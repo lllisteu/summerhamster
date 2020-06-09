@@ -1,5 +1,5 @@
 # label   : demdex.com
-# tags    : tracking,adobe
+# tags    : tracking,Adobe
 # harvest : demdex
 
 aaas.demdex.net

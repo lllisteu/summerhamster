@@ -1,0 +1,5 @@
+# label   : mopub.com
+# tags    : advertising
+# harvest : mopub
+
+ads.mopub.com

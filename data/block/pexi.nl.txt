@@ -1,0 +1,8 @@
+# label   : pexi.nl
+# tags    : advertising,tracking
+# harvest : pexi\.nl
+
+ads.pexi.nl
+bidding.pexi.nl
+static.pexi.nl
+track.pexi.nl
