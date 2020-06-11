@@ -1,0 +1,36 @@
+# label       : github.com.phishing
+# tags        : phishing,security,github
+# description : Known phishing domains used in Github phishing attack
+# link        : https://github.blog/2020-04-14-sawfish-phishing-campaign-targets-github-users/
+
+aws-update.net
+corp-github.com
+ensure-https.com
+git-hub.co
+git-secure-service.in
+githb.co
+glt-app.net
+glt-hub.com
+glthub.co
+glthub.info
+glthub.net
+glthubb.info
+glthube.app
+glthubs.com
+glthubs.info
+glthubs.net
+glthubse.info
+slack-app.net
+ssl-connection.net
+sso-github.com
+sts-github.com
+tsl-github.com
+data-github.com
+gilthub.com
+gïthub.com
+githube.app
+githubs.info
+gltgub.net
+glthhubs.net
+gthub.co
+xn--gthub-cta.com
