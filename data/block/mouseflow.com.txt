@@ -1,3 +1,5 @@
 # label   : mouseflow.com
 # tags    : tracking
 # harvest : mouseflow
+
+cdn.mouseflow.com

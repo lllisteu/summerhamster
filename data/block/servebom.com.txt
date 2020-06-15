@@ -3,4 +3,5 @@
 # harvest : servebom
 
 ads.servebom.com
+ads2.servebom.com
 pixel.servebom.com

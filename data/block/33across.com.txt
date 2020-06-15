@@ -4,3 +4,4 @@
 # harvest     : 33across
 
 pixel.33across.com
+ssc-cms.33across.com

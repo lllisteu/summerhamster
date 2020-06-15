@@ -4,6 +4,7 @@
 # harvest     : facebook|fbcdn
 
 api.facebook.com
+apps.facebook.com
 connect.facebook.net
 facebook.com
 graph.facebook.com

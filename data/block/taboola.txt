@@ -5,6 +5,7 @@
 15.taboola.com
 actions-am.taboola.com
 am-match.taboola.com
+am-sync.taboola.com
 am-trc-events.taboola.com
 am-vid-events.taboola.com
 c2.taboola.com
@@ -22,6 +23,7 @@ taboola.com
 taboola.map.fastly.net
 taboola.mktoweb.com
 tls13.taboola.map.fastly.net
+trc-events.taboola.com
 trc.taboola.com
 trc.taboola.map.fastly.net
 vidstat.taboola.com

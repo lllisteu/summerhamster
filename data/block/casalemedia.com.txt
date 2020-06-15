@@ -4,4 +4,5 @@
 
 as-sec.casalemedia.com
 dsum-sec.casalemedia.com
+htlb.casalemedia.com
 ssum-sec.casalemedia.com

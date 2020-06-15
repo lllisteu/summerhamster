@@ -3,6 +3,7 @@
 # tags        : tracking,google
 # harvest     : googletag
 
+googletagmanager.com
 www-googletagmanager.l.google.com
 www.googletagmanager.com
 www.googletagservices.com
