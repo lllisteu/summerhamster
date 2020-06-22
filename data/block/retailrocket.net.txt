@@ -1,0 +1,7 @@
+# label   : retailrocket.net
+# tags    : tracking
+# harvest : retailrocket
+
+api.retailrocket.net
+cdn.retailrocket.net
+tracking.retailrocket.net

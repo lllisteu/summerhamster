@@ -3,5 +3,6 @@
 # harvest : 360yield\.com
 
 ad.360yield.com
+ad2.360yield.com
 ice.360yield.com
 idpt.360yield.com
