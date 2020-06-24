@@ -4,6 +4,7 @@
 # harvest     : omniture|omtrdc|2o7
 
 _mboxedge26.tt.omtrdc.net
+appleglobal.102.112.2o7.net
 bol.com.ssl.d1.sc.omtrdc.net
 cdc.112.2o7.net
 faz.tt.omtrdc.net

@@ -1,0 +1,5 @@
+# label   : adux.com
+# tags    : tracking,advertising
+# harvest : adux
+
+trackquantx.adux.com

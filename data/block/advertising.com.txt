@@ -3,6 +3,7 @@
 # harvest : \.advertising
 
 ads.adaptv.advertising.com
+adserver-eu.adtech.advertising.com
 adserver-us.adtech.advertising.com
 cmp.advertising.com
 guce.advertising.com
