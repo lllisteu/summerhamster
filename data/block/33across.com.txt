@@ -5,3 +5,4 @@
 
 pixel.33across.com
 ssc-cms.33across.com
+ssc.33across.com

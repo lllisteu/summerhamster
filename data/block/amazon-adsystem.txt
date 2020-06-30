@@ -11,4 +11,5 @@ fls-na.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 rcm-na.amazon-adsystem.com
 s.amazon-adsystem.com
+wms-na.amazon-adsystem.com
 z-na.amazon-adsystem.com

@@ -3,3 +3,6 @@
 # transclude : https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 
 acidpigs.com
+honeybulb.com
+sicksmash.com
+squeakzinc.com
