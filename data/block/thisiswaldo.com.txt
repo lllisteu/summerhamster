@@ -1,0 +1,6 @@
+# label   : thisiswaldo.com
+# tags    : cloaking,advertising
+# harvest : thisiswaldo
+
+cdn.thisiswaldo.com
+thisiswaldo.com

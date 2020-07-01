@@ -1,0 +1,6 @@
+# label   : permutive.com
+# tags    : tracking
+# harvest : permutive
+
+api.permutive.com
+cdn.permutive.com
