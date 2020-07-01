@@ -1,0 +1,4 @@
+# label       : tiktok.com
+# wikidata_id : Q48938223
+# tags        : spyware,tracking
+# harvest     : tiktok|musical\.ly

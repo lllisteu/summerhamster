@@ -1,0 +1,8 @@
+# label   : teads.com
+# tags    : advertising
+# harvest : teads
+
+a.teads.tv
+s8t.teads.tv
+sync.teads.tv
+t.teads.tv

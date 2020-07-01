@@ -1,0 +1,5 @@
+# label   : betrad.com
+# tags    : cloaking,tracking
+# harvest : betrad
+
+l.betrad.com

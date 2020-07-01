@@ -5,4 +5,5 @@
 api.parsely.com
 cdn.parsely.com
 currents.parsely.com
+parsely.com
 static.parsely.com

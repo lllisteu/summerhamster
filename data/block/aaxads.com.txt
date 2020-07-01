@@ -1,0 +1,7 @@
+# label   : aaxads.com
+# tags    : advertising
+# harvest : aax
+
+c.aaxads.com
+l3.aaxads.com
+www.aaxdetect.com
