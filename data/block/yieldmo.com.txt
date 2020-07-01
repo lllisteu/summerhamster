@@ -1,0 +1,7 @@
+# label   : yieldmo.com
+# tags    : advertising
+# harvest : yieldmo
+
+ads-yieldmo-com-eu-west-1-544050270.eu-west-1.elb.amazonaws.com
+ads.yieldmo.com
+gdpr.rw.yieldmo.com

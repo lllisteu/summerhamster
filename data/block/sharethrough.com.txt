@@ -1,0 +1,7 @@
+# label   : sharethrough.com
+# tags    : advertising
+# harvest : sharethrough
+
+btlr-ecs-eu-central-1.sharethrough.com
+btlr.sharethrough.com
+sdk.sharethrough.com

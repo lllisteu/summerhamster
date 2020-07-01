@@ -1,0 +1,5 @@
+# label   : ad-delivery.net
+# tags    : tracking,advertising
+# harvest : ad-delivery
+
+ad-delivery.net
