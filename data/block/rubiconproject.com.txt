@@ -3,6 +3,7 @@
 # tags        : advertising
 # harvest     : rubicon
 
+ads.rubiconproject.com
 eus.rubiconproject.com
 fastlane.rubiconproject.com
 pixel.rubiconproject.com

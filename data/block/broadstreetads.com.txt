@@ -1,0 +1,6 @@
+# label   : broadstreetads.com
+# tags    : advertising
+# harvest : broadstreetads
+
+ad.broadstreetads.com
+cdn.broadstreetads.com
