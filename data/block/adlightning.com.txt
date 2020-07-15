@@ -1,0 +1,5 @@
+# label   : adlightning.com
+# tags    : advertising
+# harvest : adlightning
+
+tagan.adlightning.com

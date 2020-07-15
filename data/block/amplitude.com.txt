@@ -1,0 +1,6 @@
+# label   : amplitude.com
+# tags    : tracking
+# harvest : amplitude
+
+api.amplitude.com
+cdn.amplitude.com
