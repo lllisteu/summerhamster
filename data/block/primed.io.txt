@@ -1,0 +1,7 @@
+# label   : primed.io
+# tags    : tracking
+# harvest : primed\.io
+
+cdn.primed.io
+collector.regiolab.primed.io
+gw.regiolab.primed.io

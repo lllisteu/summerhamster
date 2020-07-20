@@ -3,3 +3,4 @@
 # harvest : rtk\.io
 
 bidder.rtk.io
+jita.rtk.io
