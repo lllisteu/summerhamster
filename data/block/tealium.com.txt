@@ -2,4 +2,6 @@
 # tags    : tracking
 # harvest : tealium|tiqcdn
 
+collect-eu-central-1.tealiumiq.com
 tags.tiqcdn.com
+visitor-service-eu-central-1.tealiumiq.com

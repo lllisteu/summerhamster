@@ -13,5 +13,6 @@ ir-na.amazon-adsystem.com
 rcm-na.amazon-adsystem.com
 s.amazon-adsystem.com
 wms-na.amazon-adsystem.com
+ws-eu.amazon-adsystem.com
 ws-na.amazon-adsystem.com
 z-na.amazon-adsystem.com

@@ -3,3 +3,4 @@
 # harvest : luckyorange
 
 settings.luckyorange.net
+ssl.luckyorange.com

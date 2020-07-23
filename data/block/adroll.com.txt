@@ -2,5 +2,6 @@
 # tags    : tracking,advertising
 # harvest : adroll
 
+assets1.adroll.com
 s.adroll.com
 wildcard.adroll.com.edgekey.net

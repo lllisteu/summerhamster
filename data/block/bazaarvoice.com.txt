@@ -1,0 +1,11 @@
+# label   : bazaarvoice.com
+# tags    : tracking
+# harvest : bazaarvoice
+
+analytics-static.ugc.bazaarvoice.com
+api.bazaarvoice.com
+apps.bazaarvoice.com
+apps.nexus.bazaarvoice.com
+bazaarvoice-prod-01.dn.apigee.net
+display.ugc.bazaarvoice.com
+network.bazaarvoice.com
