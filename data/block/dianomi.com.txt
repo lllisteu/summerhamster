@@ -1,0 +1,5 @@
+# label   : dianomi.com
+# tags    : advertising
+# harvest : dianomi\.com
+
+www.dianomi.com

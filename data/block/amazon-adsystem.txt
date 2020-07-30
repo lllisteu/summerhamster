@@ -2,6 +2,7 @@
 # tags    : advertising,amazon
 # harvest : amazon-adsystem
 
+aan.amazon-adsystem.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-fe.amazon-adsystem.com

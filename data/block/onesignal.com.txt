@@ -1,0 +1,6 @@
+# label   : onesignal.com
+# tags    : popups,tracking
+# harvest : onesignal
+
+cdn.onesignal.com
+onesignal.com

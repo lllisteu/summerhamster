@@ -9,3 +9,4 @@ apps.nexus.bazaarvoice.com
 bazaarvoice-prod-01.dn.apigee.net
 display.ugc.bazaarvoice.com
 network.bazaarvoice.com
+photos-eu.bazaarvoice.com

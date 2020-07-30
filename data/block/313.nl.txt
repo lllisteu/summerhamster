@@ -4,3 +4,4 @@
 # harvest : 313\.nl
 
 beacon.dev.bd.313.nl
+consent.313.nl

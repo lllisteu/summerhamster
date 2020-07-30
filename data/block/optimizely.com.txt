@@ -7,4 +7,5 @@ cdn-pci.optimizely.com
 cdn.optimizely.com
 cdn3.optimizely.com
 logx.optimizely.com
+rum.optimizely.com
 tapi.optimizely.com
