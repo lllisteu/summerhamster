@@ -4,3 +4,11 @@
 # harvest     : tiktok|musical\.ly
 
 p16-tiktok-va-h2.ibyteimg.com
+p16-tiktok-va.ibyteimg.com
+p16-tiktokcdn-com.akamaized.net
+p16-va-tiktok.ibyteimg.com
+p16-va.tiktokcdn.com
+s16.tiktokcdn.com
+v16.tiktokcdn.com
+v16m.tiktokcdn.com
+www.tiktok.com
