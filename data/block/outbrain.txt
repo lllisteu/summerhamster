@@ -5,6 +5,7 @@
 
 amplify.outbrain.com
 amplifypixel.outbrain.com
+hpr.outbrain.com
 images.outbrain.com
 images.outbrainimg.com
 log.outbrain.com

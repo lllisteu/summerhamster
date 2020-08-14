@@ -2,4 +2,5 @@
 # tags    : tracking
 # harvest : scorecardresearch
 
+b.scorecardresearch.com
 sb.scorecardresearch.com

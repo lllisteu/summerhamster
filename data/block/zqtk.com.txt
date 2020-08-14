@@ -2,4 +2,5 @@
 # tags    : cloaking
 # harvest : zqtk
 
+segment-data-us-east.zqtk.net
 segment-data.zqtk.net

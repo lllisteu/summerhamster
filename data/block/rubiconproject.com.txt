@@ -5,7 +5,9 @@
 
 ads.rubiconproject.com
 eus.rubiconproject.com
+fastlane-adv.rubiconproject.com
 fastlane.rubiconproject.com
+optimized-by.rubiconproject.com
 pixel.rubiconproject.com
 prebid-server.rubiconproject.com
 secure-assets.rubiconproject.com
