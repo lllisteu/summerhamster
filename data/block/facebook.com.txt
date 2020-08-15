@@ -13,6 +13,7 @@ graph.facebook.com
 instagram.c10r.facebook.com
 nl-nl.facebook.com
 scontent-iad3-1.xx.fbcdn.net
+scontent-lht6-1.xx.fbcdn.net
 scontent-mxp1-1.xx.fbcdn.net
 scontent.fymy1-1.fna.fbcdn.net
 scontent.fymy1-2.fna.fbcdn.net
