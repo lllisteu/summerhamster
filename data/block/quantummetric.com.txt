@@ -1,0 +1,7 @@
+# label   : quantummetric.com
+# tags    : tracking
+# harvest : quantummetric
+
+bbb-app.quantummetric.com
+bbb-sync.quantummetric.com
+cdn.quantummetric.com

@@ -5,4 +5,5 @@
 
 app-ab13.marketo.com
 app-abm.marketo.com
+marketo.clearbit.com
 munchkin.marketo.net

@@ -14,7 +14,10 @@ foxnews.tt.omtrdc.net
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 libertyglobalpaneu.tt.omtrdc.net
 mboxedge37.tt.omtrdc.net
+microsoftmscompoc.tt.omtrdc.net
+msftenterprise.sc.omtrdc.net
 oracle.112.2o7.net
+philipslighting.d3.sc.omtrdc.net
 postnl.nl.ssl.sc.omtrdc.net
 upc.d2.sc.omtrdc.net
 vrt.hb.omtrdc.net

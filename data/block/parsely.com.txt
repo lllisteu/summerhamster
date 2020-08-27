@@ -5,5 +5,6 @@
 api.parsely.com
 cdn.parsely.com
 currents.parsely.com
+fpa-events-arstechnica-com.parsely.com
 parsely.com
 static.parsely.com
