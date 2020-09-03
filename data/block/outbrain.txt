@@ -13,6 +13,7 @@ log.outbrainimg.com
 mcdp-chidc2.outbrain.com
 odb.outbrain.com
 outbrainimg.com
+sync.outbrain.com
 tcheck.outbrainimg.com
 tr.outbrain.com
 vrt.outbrain.com

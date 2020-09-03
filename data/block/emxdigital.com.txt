@@ -2,4 +2,5 @@
 # tags    : advertising,tracking
 # harvest : emxdigital|emxdgt
 
+cs.emxdgt.com
 hb.emxdgt.com

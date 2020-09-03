@@ -7,3 +7,4 @@ c.gumgum.com
 g2.gumgum.com
 gumgum.com
 js.gumgum.com
+rtb.gumgum.com
