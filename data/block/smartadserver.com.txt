@@ -1,0 +1,7 @@
+# label   : smartadserver.com
+# tags    : advertising
+# harvest : smartadserver
+
+eqx-tmk-geoloc.smartadserver.com
+eqx.smartadserver.com
+ww1097.smartadserver.com

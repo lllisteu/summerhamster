@@ -1,0 +1,7 @@
+# label   : 3lift.com
+# tags    : advertising,tracking
+# harvest : 3lift
+
+eb2.3lift.com
+eu-tlx.3lift.com
+tlx.3lift.com

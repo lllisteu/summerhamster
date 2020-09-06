@@ -1,0 +1,6 @@
+# label   : themoneytizer.com
+# tags    : advertising
+# harvest : themoneytizer
+
+ads.themoneytizer.com
+g.themoneytizer.net
