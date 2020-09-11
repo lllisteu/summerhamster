@@ -3,6 +3,7 @@
 # harvest : teads
 
 a.teads.tv
+cdn.teads.tv
 s8t.teads.tv
 sync.teads.tv
 t.teads.tv
