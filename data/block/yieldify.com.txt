@@ -1,0 +1,11 @@
+# label   : yieldify.com
+# tags    : tracking
+# harvest : yieldify
+
+assets-v2.yieldify.com
+assets.yieldify.com
+custom.yieldify.com
+fonts.yieldify-production.com
+gateway.yieldify-production.com
+td.yieldify.com
+v2.dc.yieldify.com
