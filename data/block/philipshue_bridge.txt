@@ -1,0 +1,14 @@
+# label     : philipshue_bridge
+# tags      : tracking,IOT
+# dns_block : false
+
+dcp.dc1.philips.com
+diagnostics.meethue.com
+discovery.meethue.com
+firmware.meethue.com
+mqtt.2030.ltsapis.goog
+time.meethue.com
+ws.meethue.com
+www.ecdinterface.philips.com
+www.signify.com
+www2.meethue.com

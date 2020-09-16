@@ -7,6 +7,7 @@ bidder.criteo.com
 cas.criteo.com
 csm.fr.eu.criteo.net
 csm.nl.eu.criteo.net
+dis.criteo.com
 dis.eu.criteo.com
 gum.am5.vip.prod.criteo.com
 gum.criteo.com
