@@ -1,0 +1,6 @@
+# label   : bidfilter.com
+# tags    : advertising
+# harvest : bidfilter
+
+cdn.bidfilter.com
+x.bidfilter.com

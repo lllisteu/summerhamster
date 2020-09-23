@@ -1,0 +1,5 @@
+# label   : adrecover.com
+# tags    : tracking,advertising
+# harvest : adrecover
+
+delivery.adrecover.com
