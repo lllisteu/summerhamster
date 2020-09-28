@@ -1,0 +1,5 @@
+# label   : xplosion.de
+# tags    : tracking,advertising
+# harvest : (^|\.)xplosion\.
+
+uss.xplosion.de

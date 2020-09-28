@@ -3,7 +3,9 @@
 # transclude : https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 
 acidpigs.com
+hocgeese.com
 honeybulb.com
 plantdigestion.com
+regularplants.com
 sicksmash.com
 squeakzinc.com

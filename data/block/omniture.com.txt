@@ -21,6 +21,7 @@ philips.112.2o7.net
 philipselectronicsne.tt.omtrdc.net
 philipslighting.d3.sc.omtrdc.net
 postnl.nl.ssl.sc.omtrdc.net
+ryanair.tt.omtrdc.net
 upc.d2.sc.omtrdc.net
 vrt.hb.omtrdc.net
 vrt.sc.omtrdc.net
