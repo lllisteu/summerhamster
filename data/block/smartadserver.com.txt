@@ -5,4 +5,5 @@
 eqx-tmk-geoloc.smartadserver.com
 eqx.smartadserver.com
 prg.smartadserver.com
+sync.smartadserver.com
 ww1097.smartadserver.com
