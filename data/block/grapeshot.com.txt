@@ -2,5 +2,6 @@
 # tags    : Oracle,tracking,cloaking
 # harvest : grapeshot|gscontxt
 
+bbc.gscontxt.net
 iqdigital-ams.gscontxt.net
 vice-useast.gscontxt.net
