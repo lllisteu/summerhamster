@@ -11,3 +11,4 @@ optimized-by.rubiconproject.com
 pixel.rubiconproject.com
 prebid-server.rubiconproject.com
 secure-assets.rubiconproject.com
+token.rubiconproject.com

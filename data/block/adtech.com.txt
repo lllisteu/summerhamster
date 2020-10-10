@@ -1,0 +1,6 @@
+# label       : adtech.com
+# wikidata_id : Q4685846
+# tags        : advertising
+# harvest     : adtech
+
+aka-cdn.adtechus.com

@@ -1,0 +1,5 @@
+# label   : googlesyndication.com
+# tags    : advertising
+# harvest : google(.*)synd
+
+tcp.googlesyndication.com

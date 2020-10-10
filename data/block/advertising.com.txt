@@ -10,4 +10,5 @@ guce.advertising.com
 log.adaptv.advertising.com
 pixel.advertising.com
 prod-m-node-3111.ssp.advertising.com
+tag.sp.advertising.com
 video.adaptv.advertising.com
