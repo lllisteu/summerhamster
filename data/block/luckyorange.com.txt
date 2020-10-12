@@ -2,5 +2,6 @@
 # tags    : tracking
 # harvest : luckyorange
 
+cdn.luckyorange.com
 settings.luckyorange.net
 ssl.luckyorange.com
