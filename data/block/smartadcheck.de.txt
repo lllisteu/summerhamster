@@ -1,0 +1,5 @@
+# label   : smartadcheck.de
+# tags    : advertising
+# harvest : smartadcheck
+
+abp.smartadcheck.de

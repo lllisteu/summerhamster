@@ -1,0 +1,5 @@
+# label   : smartredirect.de
+# tags    : advertising
+# harvest : smartredirect
+
+js.smartredirect.de

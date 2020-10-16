@@ -7,3 +7,5 @@ eqx.smartadserver.com
 prg.smartadserver.com
 sync.smartadserver.com
 ww1097.smartadserver.com
+www8.smartadserver.com
+www9.smartadserver.com
