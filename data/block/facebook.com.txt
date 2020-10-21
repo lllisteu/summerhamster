@@ -18,6 +18,7 @@ scontent-lht6-1.xx.fbcdn.net
 scontent-mxp1-1.xx.fbcdn.net
 scontent.fymy1-1.fna.fbcdn.net
 scontent.fymy1-2.fna.fbcdn.net
+scontent.xx.fbcdn.net
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
 www.facebook.com

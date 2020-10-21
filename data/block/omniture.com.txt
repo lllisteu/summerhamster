@@ -18,6 +18,8 @@ libertyglobalpaneu.tt.omtrdc.net
 mboxedge37.tt.omtrdc.net
 microsoftmscompoc.tt.omtrdc.net
 msftenterprise.sc.omtrdc.net
+nbcume.hb.omtrdc.net
+nbcume.sc.omtrdc.net
 oracle.112.2o7.net
 philips.112.2o7.net
 philipselectronicsne.tt.omtrdc.net
@@ -28,3 +30,4 @@ snsbank.tt.omtrdc.net
 upc.d2.sc.omtrdc.net
 vrt.hb.omtrdc.net
 vrt.sc.omtrdc.net
+weather.com.ssl.sc.omtrdc.net
