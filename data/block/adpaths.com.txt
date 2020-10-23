@@ -1,0 +1,5 @@
+# label   : adpaths.com
+# tags    : tracking,advertising
+# harvest : adpaths
+
+play.adpaths.com
