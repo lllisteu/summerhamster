@@ -2,4 +2,6 @@
 # tags    : advertising
 # harvest : google(.*)synd
 
+pagead2.googlesyndication.com
 tcp.googlesyndication.com
+tpc.googlesyndication.com

@@ -6,5 +6,6 @@
 edge.quantserve.com
 global.px.quantserve.com
 pixel.quantserve.com
+px2.px.quantserve.com
 rules.quantcount.com
 secure.quantserve.com

@@ -10,6 +10,7 @@ bol.com.ssl.d1.sc.omtrdc.net
 cdc.112.2o7.net
 cdn.tt.omtrdc.net
 channel4.com.ssl.sc.omtrdc.net
+crutchfield.ca.ssl.sc.omtrdc.net
 crutchfield.com.ssl.sc.omtrdc.net
 faz.tt.omtrdc.net
 foxnews.tt.omtrdc.net
