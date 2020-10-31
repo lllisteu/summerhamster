@@ -3,3 +3,4 @@
 # harvest : adobedtm
 
 assets.adobedtm.com
+cn-assets.adobedtm.com.edgekey.net

@@ -1,9 +1,11 @@
 # label   : adform.net
-# tags    : advertising
+# tags    : advertising,tracking
 # harvest : adform
 
 adx.adform.net
 c1.adform.net
 s1-eu.adformnet.akadns.net
 s1.adform.net
+track-eu.adformnet.akadns.net
 track.adform.net
+track.adformnet.akadns.net

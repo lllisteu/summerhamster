@@ -10,5 +10,6 @@ iqdigital.demdex.net
 marktplaats.demdex.net
 mscom.demdex.net
 nbcu.demdex.net
+prisacom.demdex.net
 ryanair.demdex.net
 symantec.demdex.net
