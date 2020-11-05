@@ -9,5 +9,6 @@ ssbsync-itx4.smartadserver.com
 ssbsync.smartadserver.com
 sync.smartadserver.com
 ww1097.smartadserver.com
+ww2245.smartadserver.com
 www8.smartadserver.com
 www9.smartadserver.com

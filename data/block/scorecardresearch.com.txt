@@ -4,3 +4,4 @@
 
 b.scorecardresearch.com
 sb.scorecardresearch.com
+sb.scorecardresearch.com.edgekey.net

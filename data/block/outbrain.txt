@@ -5,6 +5,7 @@
 
 amplify.outbrain.com
 amplifypixel.outbrain.com
+chidc2.outbrain.org
 hpr.outbrain.com
 images.outbrain.com
 images.outbrainimg.com

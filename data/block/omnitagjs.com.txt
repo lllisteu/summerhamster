@@ -4,4 +4,5 @@
 
 hb-api-fra02.omnitagjs.com
 hb-api.omnitagjs.com
+visitor-fra02.omnitagjs.com
 visitor.omnitagjs.com

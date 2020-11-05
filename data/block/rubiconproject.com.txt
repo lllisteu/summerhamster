@@ -11,4 +11,5 @@ optimized-by.rubiconproject.com
 pixel.rubiconproject.com
 prebid-server.rubiconproject.com
 secure-assets.rubiconproject.com
+tagged-by.rubiconproject.net.akadns.net
 token.rubiconproject.com

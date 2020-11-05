@@ -6,6 +6,7 @@
 ads.pubmatic.com
 gads.pubmatic.com
 hbopenbid.pubmatic.com
+hbopenbid22000nf.pubmatic.com
 image2.pubmatic.com
 image6.pubmatic.com
 simage2.pubmatic.com
