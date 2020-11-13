@@ -6,4 +6,5 @@ app.crazyegg.com
 crazyegg-assets.crazyeggcdn.com
 sample-api-v2.crazyegg.com
 script.crazyegg.com
+script.crazyegg.com.cdn.cloudflare.net
 tracking.crazyegg.com

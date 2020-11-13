@@ -5,6 +5,7 @@
 eqx-tmk-geoloc.smartadserver.com
 eqx.smartadserver.com
 prg.smartadserver.com
+prg8.smartadserver.com
 ssbsync-itx4.smartadserver.com
 ssbsync.smartadserver.com
 sync.smartadserver.com

@@ -4,4 +4,5 @@
 
 api.retailrocket.net
 cdn.retailrocket.net
+retailrocket.net.cdnvideo.ru
 tracking.retailrocket.net
