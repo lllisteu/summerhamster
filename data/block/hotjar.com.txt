@@ -7,6 +7,7 @@ in.hotjar.com
 insights.hotjar.com
 script.hotjar.com
 script.hotjar.com.c.section.io
+static-cdn.hotjar.com
 static-cms.hotjar.com
 static.hotjar.com
 static.hotjar.com.c.section.io
