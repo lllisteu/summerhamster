@@ -15,6 +15,7 @@ gum.am5.vip.prod.criteo.com
 gum.criteo.com
 gum.par.vip.prod.criteo.com
 sslwidget.criteo.com
+static.am5.vip.prod.criteo.net
 static.criteo.net
 static.par.vip.prod.criteo.net
 widget.criteo.com

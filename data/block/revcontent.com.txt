@@ -1,0 +1,7 @@
+# label   : revcontent.com
+# tags    : tracking,advertising
+# harvest : revcontent
+
+cdn.revcontent.com
+images.revcontent.com
+trends.revcontent.com

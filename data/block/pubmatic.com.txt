@@ -4,9 +4,12 @@
 # harvest     : pubmatic
 
 ads.pubmatic.com
+aktrack.pubmatic.com
 gads.pubmatic.com
 hbopenbid.pubmatic.com
 hbopenbid22000nf.pubmatic.com
 image2.pubmatic.com
 image6.pubmatic.com
 simage2.pubmatic.com
+vid.pubmatic.com
+vpaid.pubmatic.com

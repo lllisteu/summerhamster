@@ -4,3 +4,4 @@
 
 cs.emxdgt.com
 hb.emxdgt.com
+vast.emxdgt.com
