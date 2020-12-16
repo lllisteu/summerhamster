@@ -2,5 +2,6 @@
 # tags    : tracking
 # harvest : amplitude
 
+amplitude.weather.com
 api.amplitude.com
 cdn.amplitude.com

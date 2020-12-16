@@ -4,6 +4,7 @@
 
 aaas.demdex.net
 dpm.demdex.net
+electro.demdex.net
 faz.demdex.net
 foxnews.demdex.net
 iqdigital.demdex.net

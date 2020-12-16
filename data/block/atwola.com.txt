@@ -3,5 +3,6 @@
 # harvest : atwola
 
 at.atwola.com
+ir.us.y.atwola.com
 uk.at.atwola.com
 us.y.atwola.com

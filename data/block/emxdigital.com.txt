@@ -3,5 +3,6 @@
 # harvest : emxdigital|emxdgt
 
 cs.emxdgt.com
+e1.emxdgt.com
 hb.emxdgt.com
 vast.emxdgt.com

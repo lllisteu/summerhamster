@@ -2,5 +2,6 @@
 # tags    : tracking
 # harvest : kampyle
 
+cooladata.kampyle.com
 nebula-cdn.kampyle.com
 udc-neb.kampyle.com

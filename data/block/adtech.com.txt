@@ -3,4 +3,6 @@
 # tags        : advertising
 # harvest     : adtech
 
+adserver.adtechus.com
 aka-cdn.adtechus.com
+ter-adserver-origin-us.prod.adtechus.com
