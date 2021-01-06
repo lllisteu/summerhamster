@@ -4,6 +4,7 @@
 # harvest     : googletag
 
 googletagmanager.com
+googletagservices.com
 www-googletagmanager.l.google.com
 www.googletagmanager.com
 www.googletagservices.com

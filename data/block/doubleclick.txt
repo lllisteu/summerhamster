@@ -26,6 +26,7 @@ pagead.l.doubleclick.net
 pagead46.l.doubleclick.net
 partnerad.l.doubleclick.net
 pubads.g.doubleclick.net
+secureads.g.doubleclick.net
 securepubads.g.doubleclick.net
 static-doubleclick-net.l.google.com
 static.doubleclick.net

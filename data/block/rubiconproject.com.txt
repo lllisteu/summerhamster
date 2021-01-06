@@ -13,3 +13,4 @@ prebid-server.rubiconproject.com
 secure-assets.rubiconproject.com
 tagged-by.rubiconproject.net.akadns.net
 token.rubiconproject.com
+video-ads.rubiconproject.com

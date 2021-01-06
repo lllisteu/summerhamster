@@ -3,6 +3,8 @@
 # tags        : tracking,oracle
 # harvest     : addthis
 
+addthis.com
+m.addthis.com
 s7.addthis.com
 s8.addthis.com
 www.addthis.com
