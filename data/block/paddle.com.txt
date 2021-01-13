@@ -2,6 +2,8 @@
 # tags    : appmetrics
 # harvest : paddle
 
+analytics.paddle.com
 checkout.paddle.com
 data.paddle.com
 v3.paddleapi.com
+www.paddleapi.com

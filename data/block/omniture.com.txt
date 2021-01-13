@@ -35,4 +35,5 @@ snsbank.tt.omtrdc.net
 upc.d2.sc.omtrdc.net
 vrt.hb.omtrdc.net
 vrt.sc.omtrdc.net
+washingtonpost.com.112.2o7.net
 weather.com.ssl.sc.omtrdc.net
