@@ -7,4 +7,5 @@ cdn.parsely.com
 currents.parsely.com
 fpa-events-arstechnica-com.parsely.com
 parsely.com
+srv.pixel.parsely.com
 static.parsely.com

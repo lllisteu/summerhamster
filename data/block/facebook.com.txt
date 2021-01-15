@@ -12,6 +12,7 @@ facebook.com
 fbcdn-sphotos-e-a.akamaihd.net
 graph.facebook.com
 instagram.c10r.facebook.com
+instagram.fdac45-1.fna.fbcdn.net
 nl-nl.facebook.com
 scontent-iad3-1.xx.fbcdn.net
 scontent-lax3-1.xx.fbcdn.net

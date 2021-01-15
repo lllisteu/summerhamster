@@ -1,0 +1,11 @@
+# label   : s-onetag.com
+# tags    : tracking,cloaking
+# harvest : s-onetag
+# note    : Criteo?
+
+connect-metrics-collector.s-onetag.com
+get.s-onetag.com
+onetag-geo-grouping.s-onetag.com
+onetag-geo.s-onetag.com
+signal-beacon.s-onetag.com
+signal-metrics-collector-beta.s-onetag.com
