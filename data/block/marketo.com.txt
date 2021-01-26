@@ -7,6 +7,7 @@ abrtp1-cdn.marketo.com
 abrtp1.marketo.com
 app-ab13.marketo.com
 app-abm.marketo.com
+app-sjn.marketo.com
 marketo.clearbit.com
 munchkin.marketo.net
 rtp-static.marketo.com

@@ -1,4 +1,5 @@
 # tags    : tracking
 # harvest : nielsencollections
 
+census.eu-central-1.nielsencollections.com
 census.eu-west-1.nielsencollections.com
