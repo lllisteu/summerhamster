@@ -2,6 +2,7 @@
 # tags    : tracking,advertising
 # harvest : revcontent
 
+assets.revcontent.com
 cdn.revcontent.com
 images.revcontent.com
 trends.revcontent.com

@@ -1,0 +1,6 @@
+# label   : alexametrics.com
+# tags    : tracking
+# harvest : alexametrics
+
+certify-js.alexametrics.com
+certify.alexametrics.com
