@@ -1,0 +1,5 @@
+# label       : twitter.com
+# tags        : tracking,advertising
+# wikidata_id : Q918
+
+analytics.twitter.com
