@@ -1,0 +1,6 @@
+# label   : postrelease.com
+# tags    : advertising
+# harvest : postrelease
+
+jadserve.postrelease.com
+jadserve.postrelease.com.akadns.net

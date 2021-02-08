@@ -4,3 +4,5 @@
 # wikidata_id : Q7294274
 
 api.rlcdn.com
+ats.rlcdn.com
+geo.rlcdn.com

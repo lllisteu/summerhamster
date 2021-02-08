@@ -1,0 +1,9 @@
+# label   : connatix.com
+# tags    : popups,advertising
+# harvest : connatix
+
+capi.connatix.com
+cd.connatix.com
+cds.connatix.com
+img.connatix.com
+vid.connatix.com
