@@ -1,0 +1,5 @@
+# label   : adrcdn.com
+# tags    : advertising,cloaking
+# harvest : adrcdn
+
+media.adrcdn.com

@@ -10,10 +10,12 @@ aax-fe.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 c.amazon-adsystem.com
+fls-eu.amazon-adsystem.com
 fls-na.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 rcm-na.amazon-adsystem.com
 s.amazon-adsystem.com
+wms-eu.amazon-adsystem.com
 wms-na.amazon-adsystem.com
 ws-eu.amazon-adsystem.com
 ws-na.amazon-adsystem.com

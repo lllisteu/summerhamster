@@ -1,0 +1,5 @@
+# label   : weborama.fr
+# tags    : tracking,advertising
+# harvest : weborama\.fr
+
+cstatic.weborama.fr

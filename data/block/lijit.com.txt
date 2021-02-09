@@ -4,5 +4,6 @@
 
 ap.lijit.com
 emea.vap.lijit.com
+oeu.vap.lijit.com
 vap.lijit.com
 www.lijit.com

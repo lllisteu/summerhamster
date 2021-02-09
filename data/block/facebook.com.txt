@@ -23,5 +23,6 @@ scontent.fymy1-2.fna.fbcdn.net
 scontent.xx.fbcdn.net
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
+static.xx.fbcdn.net
 www.facebook.com
 z-p42-instagram.c10r.facebook.com
