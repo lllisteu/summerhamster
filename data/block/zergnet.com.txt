@@ -1,0 +1,9 @@
+# label       : zergnet.com
+# tags        : tracking,advertising
+# wikidata_id : Q24915760
+# harvest     : zergnet
+
+img1.zergnet.com
+img2.zergnet.com
+img4.zergnet.com
+www.zergnet.com
