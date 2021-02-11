@@ -3,12 +3,23 @@
 # tags        : spyware,tracking
 # harvest     : tiktok|musical\.ly
 
+m.tiktok.com
+mcs-va.tiktokv.com
+p16-sign-sg.tiktokcdn.com
+p16-sign-va.tiktokcdn.com
 p16-tiktok-va-h2.ibyteimg.com
 p16-tiktok-va.ibyteimg.com
 p16-tiktokcdn-com.akamaized.net
 p16-va-tiktok.ibyteimg.com
 p16-va.tiktokcdn.com
+p77-sg.tiktokcdn.com
+p77-sign-sg.tiktokcdn.com
 s16.tiktokcdn.com
+s20.tiktokcdn.com
+v16-web.tiktok.com
 v16.tiktokcdn.com
 v16m.tiktokcdn.com
+v58.tiktokcdn.com
+v77.tiktokcdn.com
+webcast.tiktok.com
 www.tiktok.com

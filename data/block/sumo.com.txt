@@ -1,0 +1,9 @@
+# label   : sumo.com
+# tags    : popups,tracking
+# harvest : sumo
+
+load.sumo.com
+media.sumo.com
+micro-cdn.sumo.com
+microsumo.b-cdn.net
+sload.sumo.com
