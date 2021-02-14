@@ -2,6 +2,7 @@
 # tags    : advertising
 # harvest : sharethrough
 
+b.sharethrough.com
 btlr-ecs-eu-central-1.sharethrough.com
 btlr.sharethrough.com
 native.sharethrough.com

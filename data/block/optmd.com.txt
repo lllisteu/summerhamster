@@ -1,0 +1,5 @@
+# label   : optmd.com
+# tags    : advertising,tracking,cloaking
+# harvest : optmd|indexww|optimax
+
+js-sec.indexww.com

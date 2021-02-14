@@ -3,6 +3,7 @@
 # harvest : demdex
 
 aaas.demdex.net
+cbsi.demdex.net
 dpm.demdex.net
 electro.demdex.net
 faz.demdex.net

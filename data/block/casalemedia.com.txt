@@ -7,6 +7,7 @@ a4543.casalemedia.com
 a5114.casalemedia.com
 as-sec.casalemedia.com
 as.casalemedia.com
+casalemedia.com
 dsum-sec.casalemedia.com
 htlb.casalemedia.com
 ssum-sec.casalemedia.com

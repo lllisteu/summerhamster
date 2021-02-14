@@ -6,3 +6,4 @@ amp.permutive.com
 api.permutive.com
 buzzfeed.amp.permutive.com
 cdn.permutive.com
+vox.amp.permutive.com

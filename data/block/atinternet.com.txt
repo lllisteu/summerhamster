@@ -1,0 +1,7 @@
+# label       : atinternet.com
+# tags        : tracking
+# wikidata_id : Q300079
+# harvest     : atinternet|aticdn|xiti
+
+logs1411.xiti.com
+tag.aticdn.net
