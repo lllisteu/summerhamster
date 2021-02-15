@@ -4,5 +4,6 @@
 
 ads.pexi.nl
 bidding.pexi.nl
+dash.pexi.nl
 static.pexi.nl
 track.pexi.nl

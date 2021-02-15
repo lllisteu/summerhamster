@@ -5,3 +5,4 @@
 
 beacon.dev.bd.313.nl
 consent.313.nl
+sat.public.bd.313.nl

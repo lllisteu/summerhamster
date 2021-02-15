@@ -4,6 +4,7 @@
 
 adx.adform.net
 c1.adform.net
+dmp.adform.net
 s1-eu.adformnet.akadns.net
 s1.adform.net
 track-eu.adformnet.akadns.net
