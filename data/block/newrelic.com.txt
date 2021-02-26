@@ -3,3 +3,4 @@
 # harvest : newrelic
 
 js-agent.newrelic.com
+tls12.newrelic.com.cdn.cloudflare.net

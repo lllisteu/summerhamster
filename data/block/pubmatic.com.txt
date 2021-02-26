@@ -10,6 +10,7 @@ hbopenbid.pubmatic.com
 hbopenbid22000nf.pubmatic.com
 image2.pubmatic.com
 image6.pubmatic.com
+pugm-lhr.pubmatic.com
 simage2.pubmatic.com
 vid.pubmatic.com
 vpaid.pubmatic.com

@@ -1,0 +1,6 @@
+# label   : perfectaudience.com
+# tags    : advertising,tracking
+# harvest : perfectaudience|prfct
+
+pixel-geo.prfct.co
+tag.perfectaudience.com
