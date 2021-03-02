@@ -6,6 +6,7 @@ aaas.demdex.net
 cbsi.demdex.net
 dpm.demdex.net
 electro.demdex.net
+euronewsgroup.demdex.net
 faz.demdex.net
 foxnews.demdex.net
 iqdigital.demdex.net
@@ -15,4 +16,5 @@ nbcu.demdex.net
 prisacom.demdex.net
 ryanair.demdex.net
 symantec.demdex.net
+vocento.demdex.net
 vrtbe.demdex.net

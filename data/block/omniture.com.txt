@@ -14,6 +14,7 @@ cdc.112.2o7.net
 cdn.tt.omtrdc.net
 channel4.com.ssl.sc.omtrdc.net
 cnn.com.102.122.2o7.net
+comeresaprensasl.tt.omtrdc.net
 crutchfield.ca.ssl.sc.omtrdc.net
 crutchfield.com.ssl.sc.omtrdc.net
 faz.tt.omtrdc.net
@@ -38,7 +39,9 @@ rscomponentsltd.tt.omtrdc.net
 ryanair.tt.omtrdc.net
 snsbank.tt.omtrdc.net
 upc.d2.sc.omtrdc.net
+vocento.d3.sc.omtrdc.net
 vrt.hb.omtrdc.net
 vrt.sc.omtrdc.net
 washingtonpost.com.112.2o7.net
 weather.com.ssl.sc.omtrdc.net
+worldcat.org.112.2o7.net

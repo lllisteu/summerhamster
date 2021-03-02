@@ -1,0 +1,7 @@
+# label   : juicyads.com
+# tags    : advertising
+# harvest : juicyads
+
+ads.juicyads.me
+adserver.juicyads.com
+js.juicyads.com

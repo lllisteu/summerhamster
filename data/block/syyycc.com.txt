@@ -1,0 +1,5 @@
+# label   : syyycc.com
+# tags    : malware
+# harvest : syyycc
+
+syyycc.com

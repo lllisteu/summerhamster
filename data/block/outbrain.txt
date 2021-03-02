@@ -9,13 +9,16 @@ chidc2.outbrain.org
 hpr.outbrain.com
 images.outbrain.com
 images.outbrainimg.com
+libs.outbrain.com
 log.outbrain.com
 log.outbrainimg.com
 mcdp-chidc2.outbrain.com
 odb.outbrain.com
 outbrainimg.com
+stas.outbrain.com
 sync.outbrain.com
 tcheck.outbrainimg.com
 tr.outbrain.com
 vrt.outbrain.com
 widgets.outbrain.com
+zem.outbrainimg.com

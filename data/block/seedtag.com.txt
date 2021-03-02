@@ -1,0 +1,6 @@
+# label   : seedtag.com
+# tags    : tracking,advertising
+# harvest : seedtag
+
+config.seedtag.com
+s.seedtag.com

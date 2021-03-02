@@ -1,0 +1,6 @@
+# label   : tradedoubler.com
+# tags    : tracking
+# harvest : tradedoubler
+
+img.tradedoubler.com
+impes.tradedoubler.com

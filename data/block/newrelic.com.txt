@@ -2,5 +2,6 @@
 # tags    : tracking
 # harvest : newrelic
 
+insights-collector.newrelic.com
 js-agent.newrelic.com
 tls12.newrelic.com.cdn.cloudflare.net

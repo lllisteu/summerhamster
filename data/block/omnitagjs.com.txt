@@ -4,5 +4,6 @@
 
 hb-api-fra02.omnitagjs.com
 hb-api.omnitagjs.com
+tracking-fra02.omnitagjs.com
 visitor-fra02.omnitagjs.com
 visitor.omnitagjs.com

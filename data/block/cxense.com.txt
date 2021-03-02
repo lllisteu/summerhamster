@@ -12,4 +12,5 @@ csyn.cxense.com
 id.cxense.com
 scdn.cxense.com
 scomcluster.cxense.com
+sp1cluster.cxense.com
 tsrid.cxense.com

@@ -20,6 +20,7 @@ bid.g.doubleclick.net
 cm.g.doubleclick.net
 dart.l.doubleclick.net
 fls.doubleclick.net
+googleads.g.doubleclick.com
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 pagead.l.doubleclick.net
