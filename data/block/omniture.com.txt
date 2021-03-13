@@ -10,6 +10,7 @@ appleglobal.102.112.2o7.net
 atlanticmedia.sc.omtrdc.net
 bol.com.ssl.d1.sc.omtrdc.net
 bostonglobe.com.ssl.sc.omtrdc.net
+cbsi.com.ssl.sc.omtrdc.net
 cdc.112.2o7.net
 cdn.tt.omtrdc.net
 channel4.com.ssl.sc.omtrdc.net
@@ -38,6 +39,7 @@ rs-online.com.ssl.sc.omtrdc.net
 rscomponentsltd.tt.omtrdc.net
 ryanair.tt.omtrdc.net
 snsbank.tt.omtrdc.net
+tpgpost.d3.sc.omtrdc.net
 upc.d2.sc.omtrdc.net
 vocento.d3.sc.omtrdc.net
 vrt.hb.omtrdc.net
@@ -45,3 +47,4 @@ vrt.sc.omtrdc.net
 washingtonpost.com.112.2o7.net
 weather.com.ssl.sc.omtrdc.net
 worldcat.org.112.2o7.net
+zdnet.com.ssl.sc.omtrdc.net

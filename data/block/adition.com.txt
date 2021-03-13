@@ -3,3 +3,4 @@
 # harvest : adition
 
 dsp.adfarm1.adition.com
+imagesrv.adition.com

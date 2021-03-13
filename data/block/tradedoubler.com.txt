@@ -4,3 +4,4 @@
 
 img.tradedoubler.com
 impes.tradedoubler.com
+swrap.tradedoubler.com
