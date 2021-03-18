@@ -3,6 +3,7 @@
 # tags        : spyware,tracking
 # harvest     : tiktok|musical\.ly
 
+analytics.tiktok.com
 m.tiktok.com
 mcs-va.tiktokv.com
 p16-sign-sg.tiktokcdn.com
