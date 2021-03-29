@@ -5,6 +5,7 @@
 
 api.facebook.com
 apps.facebook.com
+atlas.c10r.facebook.com
 connect.facebook.net
 connet.facebook.net
 external.xx.fbcdn.net

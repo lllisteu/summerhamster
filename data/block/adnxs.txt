@@ -13,6 +13,7 @@ ib.adnxs.com
 ib.anycast.adnxs.com
 ib.sand-07.adnxs.net
 ib.sand-08.adnxs.net
+m.adnxs.com
 mediation.adnxs.com
 nym1-ib.adnxs.com
 prebid.adnxs.com

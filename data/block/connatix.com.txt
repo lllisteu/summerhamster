@@ -4,6 +4,7 @@
 
 capi.connatix.com
 cd.connatix.com
+cdm.connatix.com
 cds.connatix.com
 img.connatix.com
 vid.connatix.com

@@ -3,6 +3,7 @@
 # harvest : lijit
 
 ap.lijit.com
+ce.lijit.com
 emea.vap.lijit.com
 oeu.vap.lijit.com
 vap.lijit.com

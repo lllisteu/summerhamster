@@ -3,5 +3,6 @@
 # harvest : exelat
 
 load77.exelator.com
+loadm.exelator.com
 loadus.exelator.com
 optout.exelator.com

@@ -20,6 +20,7 @@ img.img-taboola.com
 imprammp.taboola.com
 pages.taboola.com
 prod.taboola.map.fastly.net
+sync.taboola.com
 taboola-supply-partners.tremorhub.com
 taboola.com
 taboola.map.fastly.net
