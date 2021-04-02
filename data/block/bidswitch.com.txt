@@ -1,0 +1,5 @@
+# label   : bidswitch.com
+# tags    : advertising
+# harvest : bidswitch
+
+x.bidswitch.net
