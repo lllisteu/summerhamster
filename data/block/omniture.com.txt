@@ -23,6 +23,7 @@ foxnews.tt.omtrdc.net
 go.com.ssl.d1.sc.omtrdc.net
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 libertyglobalpaneu.tt.omtrdc.net
+loc.gov.sc.omtrdc.net
 mboxedge37.tt.omtrdc.net
 microsoftmscompoc.tt.omtrdc.net
 msftenterprise.sc.omtrdc.net

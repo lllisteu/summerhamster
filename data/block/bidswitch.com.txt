@@ -2,4 +2,5 @@
 # tags    : advertising
 # harvest : bidswitch
 
+pool.grid-data.bidswitch.net
 x.bidswitch.net
