@@ -3,7 +3,12 @@
 # harvest : paddle
 
 analytics.paddle.com
+buy.paddle.com
+cdn.paddle.com
+checkout-service.paddle.com
 checkout.paddle.com
+create-checkout.paddle.com
 data.paddle.com
+paddle.s3.amazonaws.com
 v3.paddleapi.com
 www.paddleapi.com

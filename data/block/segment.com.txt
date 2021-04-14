@@ -4,3 +4,4 @@
 
 api.segment.io
 cdn.segment.com
+idsync.segment.com
