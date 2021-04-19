@@ -2,6 +2,7 @@
 # tags    : tracking
 # harvest : fitanalytics
 
+integrations.fitanalytics.com
 metrics-nl.fitanalytics.com
 metrics.fitanalytics.com
 widget.fitanalytics.com
