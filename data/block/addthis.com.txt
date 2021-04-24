@@ -4,7 +4,11 @@
 # harvest     : addthis
 
 addthis.com
+api-public.addthis.com
+cache.addthiscdn.com
 m.addthis.com
+m.addthisedge.com
 s7.addthis.com
 s8.addthis.com
+su.addthis.com
 www.addthis.com

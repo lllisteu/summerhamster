@@ -4,6 +4,7 @@
 # harvest     : rubicon
 
 ads.rubiconproject.com
+beacon-us-west.rubiconproject.com
 eus.rubiconproject.com
 fastlane-adv.rubiconproject.com
 fastlane.rubiconproject.com

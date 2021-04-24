@@ -3,6 +3,7 @@
 # tags        : tracking,advertising
 # harvest     : quant(?!cast)
 
+assets.quantcount.com
 edge.quantserve.com
 global.px.quantserve.com
 pixel.quantserve.com

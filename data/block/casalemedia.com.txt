@@ -2,6 +2,7 @@
 # tags    : tracking,advertising
 # harvest : casale
 
+a2446.casalemedia.com
 a4474.casalemedia.com
 a4543.casalemedia.com
 a5114.casalemedia.com
