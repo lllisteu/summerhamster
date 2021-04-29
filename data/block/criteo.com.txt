@@ -18,5 +18,6 @@ sslwidget.criteo.com
 static.am5.vip.prod.criteo.net
 static.criteo.net
 static.par.vip.prod.criteo.net
+widget.am5.vip.prod.criteo.com
 widget.criteo.com
 widget.par.vip.prod.criteo.com
