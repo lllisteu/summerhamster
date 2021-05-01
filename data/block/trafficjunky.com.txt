@@ -1,0 +1,9 @@
+# label   : trafficjunky.com
+# tags    : advertising
+# harvest : trafficjunky
+
+ads.trafficjunky.net
+hw-cdn2.trafficjunky.net
+media.trafficjunky.net
+static.trafficjunky.com
+vz-cdn2.trafficjunky.net

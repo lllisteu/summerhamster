@@ -6,6 +6,7 @@ apx.moatads.com
 geo.moatads.com
 mb.moatads.com
 moatads.com
+pixel.moatads.com
 px.moatads.com
 wildcard.moatads.com.edgekey.net
 z.moatads.com
