@@ -10,5 +10,8 @@ m.addthis.com
 m.addthisedge.com
 s7.addthis.com
 s8.addthis.com
+s9.addthis.com
 su.addthis.com
+v1.addthisedge.com
 www.addthis.com
+x.dlx.addthis.com

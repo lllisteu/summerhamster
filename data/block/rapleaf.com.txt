@@ -5,5 +5,7 @@
 
 api.rlcdn.com
 ats.rlcdn.com
+di.rlcdn.com
 geo.rlcdn.com
 id.rlcdn.com
+idsync.rlcdn.com

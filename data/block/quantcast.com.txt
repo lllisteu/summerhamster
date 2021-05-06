@@ -4,6 +4,7 @@
 # harvest     : quant(?!cast)
 
 assets.quantcount.com
+cms.quantserve.com
 edge.quantserve.com
 global.px.quantserve.com
 pixel.quantserve.com

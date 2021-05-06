@@ -3,5 +3,6 @@
 # harvest : scorecardresearch
 
 b.scorecardresearch.com
+beacon.scorecardresearch.com
 sb.scorecardresearch.com
 sb.scorecardresearch.com.edgekey.net
