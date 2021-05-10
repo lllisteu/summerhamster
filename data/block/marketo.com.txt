@@ -5,6 +5,7 @@
 
 abrtp1-cdn.marketo.com
 abrtp1.marketo.com
+app-ab11.marketo.com
 app-ab13.marketo.com
 app-ab15.marketo.com
 app-abm.marketo.com
