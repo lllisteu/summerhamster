@@ -2,5 +2,6 @@
 # tags    : advertising
 # harvest : adition
 
+ad2.adfarm1.adition.com
 dsp.adfarm1.adition.com
 imagesrv.adition.com

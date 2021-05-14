@@ -2,4 +2,6 @@
 # tags    : tracking,advertising
 # harvest : (^|\.)xplosion\.
 
+cdn.xplosion.de
+ups.xplosion.de
 uss.xplosion.de
