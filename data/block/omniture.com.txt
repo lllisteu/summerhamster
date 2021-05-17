@@ -44,6 +44,7 @@ rs-online.com.ssl.sc.omtrdc.net
 rscomponentsltd.tt.omtrdc.net
 ryanair.tt.omtrdc.net
 snsbank.tt.omtrdc.net
+thestar.com.ssl.sc.omtrdc.net
 tpgpost.d3.sc.omtrdc.net
 upc.d2.sc.omtrdc.net
 vocento.d3.sc.omtrdc.net
