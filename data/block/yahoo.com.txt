@@ -11,3 +11,4 @@ service.idsync.analytics.yahoo.com
 sp.analytics.yahoo.com
 tag.idsync.analytics.yahoo.com
 ups.analytics.yahoo.com
+y.analytics.yahoo.com
