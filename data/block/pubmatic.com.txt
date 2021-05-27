@@ -8,6 +8,7 @@ aktrack.pubmatic.com
 gads.pubmatic.com
 hbopenbid.pubmatic.com
 hbopenbid22000nf.pubmatic.com
+hbopenbid22000nfc.pubmatic.com
 image2.pubmatic.com
 image6.pubmatic.com
 pugm-lhr.pubmatic.com

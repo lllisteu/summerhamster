@@ -40,6 +40,7 @@ philipselectronicsne.tt.omtrdc.net
 philipslighting.d3.sc.omtrdc.net
 postnl.nl.ssl.sc.omtrdc.net
 premierfarnell.tt.omtrdc.net
+rcsmetrics.it.ssl.d2.sc.omtrdc.net
 rs-online.com.ssl.sc.omtrdc.net
 rscomponentsltd.tt.omtrdc.net
 ryanair.tt.omtrdc.net
