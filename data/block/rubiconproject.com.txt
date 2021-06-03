@@ -10,6 +10,7 @@ fastlane-adv.rubiconproject.com
 fastlane.rubiconproject.com
 optimized-by.rubiconproject.com
 pixel.rubiconproject.com
+prebid-a.rubiconproject.com
 prebid-server.rubiconproject.com
 secure-assets.rubiconproject.com
 tagged-by.rubiconproject.net.akadns.net

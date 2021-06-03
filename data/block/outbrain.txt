@@ -14,11 +14,13 @@ log.outbrain.com
 log.outbrainimg.com
 mcdp-chidc2.outbrain.com
 odb.outbrain.com
+outbrain.map.fastly.net
 outbrainimg.com
 stas.outbrain.com
 sync.outbrain.com
 tcheck.outbrainimg.com
 tr.outbrain.com
 vrt.outbrain.com
+widget-pixels.outbrain.com
 widgets.outbrain.com
 zem.outbrainimg.com
