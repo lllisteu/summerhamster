@@ -5,3 +5,4 @@
 apex.go.sonobi.com
 mtrx.go.sonobi.com
 prod.sonobi-go.map.fastly.net
+sync.go.sonobi.com

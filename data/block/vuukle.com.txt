@@ -1,0 +1,10 @@
+# label   : vuukle.com
+# tags    : tracking,distractions
+# harvest : vuukle
+
+api.vuukle.com
+cdn.vuukle.com
+image.vuukle.com
+publish.vuukle.com
+s1.vuukle.com
+vuukle.com

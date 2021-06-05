@@ -1,0 +1,12 @@
+# label   : mgid.com
+# tags    : advertising,tracking
+# harvest : mgid\.
+
+c.mgid.com
+cdn.mgid.com
+cm.mgid.com
+jsc.mgid.com
+s-img.mgid.com
+servicer.mgid.com
+widgets.mgid.com
+www.mgid.com
