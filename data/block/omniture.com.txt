@@ -5,6 +5,8 @@
 
 _mboxedge26.tt.omtrdc.net
 amazoncustomerservice.d2.sc.omtrdc.net
+amazonwebservices.d2.sc.omtrdc.net
+amazonwebservicesinc.tt.omtrdc.net
 analytics.lego.com.ssl.d1.sc.omtrdc.net
 apple.tt.omtrdc.net
 appleglobal.102.112.2o7.net

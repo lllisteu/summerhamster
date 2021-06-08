@@ -1,0 +1,11 @@
+# label   : graindata.com
+# tags    : tracking
+# harvest : graindata
+
+cdn.harvest.graindata.com
+cg.cookieguard.graindata.com
+cg.graindata.com
+cookieguard.graindata.com
+gtm.www.graindata.com
+harvest-pipeline.graindata.com
+harvest.graindata.com
