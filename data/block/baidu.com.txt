@@ -1,0 +1,6 @@
+# label   : baidu.com
+# tags    : tracking,china
+# harvest : hm\.baidu|tongji
+# notes   : Baidu Analytics (Tongji)
+
+hm.baidu.com

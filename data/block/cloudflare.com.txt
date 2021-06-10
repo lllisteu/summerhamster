@@ -1,0 +1,5 @@
+# label   : cloudflare.com
+# tags    : tracking
+# harvest : cloudflareinsights
+
+static.cloudflareinsights.com

@@ -1,0 +1,8 @@
+# label   : monetate.com
+# tags    : tracking
+# harvest : monetate
+
+f.monetate-prod.zone
+f.monetate.net
+sb.monetate.net
+se.monetate.net

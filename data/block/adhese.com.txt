@@ -1,0 +1,6 @@
+# label   : adhese.com
+# tags    : advertising
+# harvest : adhese
+
+ads-tmg.adhese.com
+pool-nrcmedia.adhese.com

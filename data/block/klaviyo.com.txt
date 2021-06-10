@@ -1,0 +1,10 @@
+# label   : klaviyo.com
+# tags    : tracking
+# harvest : klaviyo
+
+a.klaviyo.com
+fast.a.klaviyo.com
+static-forms.klaviyo.com
+static.klaviyo.com
+telemetrics.klaviyo.com
+www.klaviyo.com

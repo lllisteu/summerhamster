@@ -1,0 +1,12 @@
+# label   : photorank.me
+# tags    : tracking,socialcrap
+# harvest : photorank
+
+data.photorank.me
+debug.photorank.me
+photorankapi-a.akamaihd.net
+photorankmedia-a.akamaihd.net
+photorankstatics-a.akamaihd.net
+z1photorankmedia-a.akamaihd.net
+z2photorankmedia-a.akamaihd.net
+z3photorankmedia-a.akamaihd.net

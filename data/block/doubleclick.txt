@@ -17,6 +17,7 @@
 9813165.fls.doubleclick.net
 ad.doubleclick.net
 adclick.g.doubleclick.net
+ads-bid.l.doubleclick.net
 bid.g.doubleclick.net
 cm.g.doubleclick.net
 dart.l.doubleclick.net
