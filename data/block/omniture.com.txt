@@ -4,6 +4,8 @@
 # harvest     : omniture|omtrdc|2o7
 
 _mboxedge26.tt.omtrdc.net
+abnamro.sc.omtrdc.net
+abnamro.tt.omtrdc.net
 amazoncustomerservice.d2.sc.omtrdc.net
 amazonwebservices.d2.sc.omtrdc.net
 amazonwebservicesinc.tt.omtrdc.net

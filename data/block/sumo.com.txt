@@ -3,6 +3,7 @@
 # harvest : sumo
 
 load.sumo.com
+load.sumome.com
 media.sumo.com
 micro-cdn.sumo.com
 microsumo.b-cdn.net

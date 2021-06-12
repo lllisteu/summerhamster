@@ -2,5 +2,6 @@
 # tags    : advertising
 # harvest : postrelease
 
+a.postrelease.com
 jadserve.postrelease.com
 jadserve.postrelease.com.akadns.net
