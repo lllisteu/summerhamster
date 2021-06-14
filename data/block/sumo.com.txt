@@ -8,3 +8,4 @@ media.sumo.com
 micro-cdn.sumo.com
 microsumo.b-cdn.net
 sload.sumo.com
+sumomedia.becdn.net
