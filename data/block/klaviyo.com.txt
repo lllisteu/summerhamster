@@ -4,6 +4,7 @@
 
 a.klaviyo.com
 fast.a.klaviyo.com
+klaviyo-onsite.map.fastly.net
 static-forms.klaviyo.com
 static.klaviyo.com
 telemetrics.klaviyo.com

@@ -35,6 +35,7 @@ loc.gov.sc.omtrdc.net
 maplesoftinc.tt.omtrdc.net
 mboxedge37.tt.omtrdc.net
 microsoftmscompoc.tt.omtrdc.net
+microsoftsto.112.2o7.net
 msftenterprise.sc.omtrdc.net
 nbcnews.com.ssl.sc.omtrdc.net
 nbcume.hb.omtrdc.net
@@ -50,6 +51,7 @@ rcsmetrics.it.ssl.d2.sc.omtrdc.net
 rs-online.com.ssl.sc.omtrdc.net
 rscomponentsltd.tt.omtrdc.net
 ryanair.tt.omtrdc.net
+snsbank.nl.102.122.2o7.net
 snsbank.tt.omtrdc.net
 thestar.com.ssl.sc.omtrdc.net
 tpgpost.d3.sc.omtrdc.net
