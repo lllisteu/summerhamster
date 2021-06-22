@@ -56,6 +56,7 @@ snsbank.tt.omtrdc.net
 thestar.com.ssl.sc.omtrdc.net
 tpgpost.d3.sc.omtrdc.net
 upc.d2.sc.omtrdc.net
+vlaamseradio.tt.omtrdc.net
 vocento.d3.sc.omtrdc.net
 vrt.hb.omtrdc.net
 vrt.sc.omtrdc.net
