@@ -5,6 +5,7 @@
 ads-mannenmedia.adhese.com
 ads-tmg.adhese.com
 pool-mannenmedia.adhese.com
+pool-newskoolmedia.adhese.com
 pool-nrcmedia.adhese.com
 pool-pebblemedia.adhese.com
 user-sync.adhese.com

@@ -6,6 +6,7 @@ ads.adaptv.advertising.com
 adserver-as.adtech.advertising.com
 adserver-eu.adtech.advertising.com
 adserver-us.adtech.advertising.com
+adserver.adtech.advertising.com
 cdn.adaptv.advertising.com
 cmp.advertising.com
 guce.advertising.com

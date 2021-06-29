@@ -11,6 +11,7 @@ images.outbrain.com
 images.outbrainimg.com
 libs.outbrain.com
 log.outbrain.com
+log.outbrain.org
 log.outbrainimg.com
 mcdp-chidc2.outbrain.com
 odb.outbrain.com

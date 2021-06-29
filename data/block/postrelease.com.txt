@@ -3,5 +3,6 @@
 # harvest : postrelease
 
 a.postrelease.com
+exchange.postrelease.com
 jadserve.postrelease.com
 jadserve.postrelease.com.akadns.net
