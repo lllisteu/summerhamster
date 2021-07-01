@@ -51,6 +51,7 @@ rcsmetrics.it.ssl.d2.sc.omtrdc.net
 rs-online.com.ssl.sc.omtrdc.net
 rscomponentsltd.tt.omtrdc.net
 ryanair.tt.omtrdc.net
+schweizerischesbb.tt.omtrdc.net
 snsbank.nl.102.122.2o7.net
 snsbank.tt.omtrdc.net
 thestar.com.ssl.sc.omtrdc.net

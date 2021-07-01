@@ -2,4 +2,5 @@
 # tags    : tracking
 # harvest : cloudflareinsights
 
+cloudflareinsights.com
 static.cloudflareinsights.com

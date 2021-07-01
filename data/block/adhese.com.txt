@@ -3,6 +3,7 @@
 # harvest : adhese
 
 ads-mannenmedia.adhese.com
+ads-marktplaats.adhese.com
 ads-tmg.adhese.com
 pool-mannenmedia.adhese.com
 pool-newskoolmedia.adhese.com
