@@ -56,6 +56,7 @@ snsbank.nl.102.122.2o7.net
 snsbank.tt.omtrdc.net
 thestar.com.ssl.sc.omtrdc.net
 tpgpost.d3.sc.omtrdc.net
+ubmtech.d3.sc.omtrdc.net
 upc.d2.sc.omtrdc.net
 vlaamseradio.tt.omtrdc.net
 vocento.d3.sc.omtrdc.net

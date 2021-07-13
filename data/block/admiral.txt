@@ -3,6 +3,7 @@
 # transclude : https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 
 acidpigs.com
+hystericalcloth.com
 hocgeese.com
 honeybulb.com
 honorableland.com
