@@ -1,0 +1,6 @@
+# label   : upscore.com
+# tags    : tracking
+# harvest : upscore
+
+files.upscore.com
+hit-pool.upscore.com

@@ -2,6 +2,7 @@
 # tags    : popups,tracking
 # harvest : cleverpush
 
+api-eu.cleverpush.com
 api.cleverpush.com
 geoip-api.cleverpush.com
 static.cleverpush.com
