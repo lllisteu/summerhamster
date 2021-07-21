@@ -4,3 +4,4 @@
 ads.stickyadstv.com
 cidr1.ads.stickyadstv.com.akadns.net
 ip1.ads.stickyadstv.com.akadns.net
+ip2.ads.stickyadstv.com.akadns.net

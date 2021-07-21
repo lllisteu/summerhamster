@@ -11,6 +11,7 @@ connect.facebook.net
 connet.facebook.net
 external.xx.fbcdn.net
 facebook.com
+facebook.net
 fbcdn-sphotos-e-a.akamaihd.net
 graph.facebook.com
 instagram.c10r.facebook.com

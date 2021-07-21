@@ -3,6 +3,7 @@
 # tags        : tracking
 # harvest     : hotjar
 
+hotjar.com
 in.hotjar.com
 insights.hotjar.com
 script.hotjar.com

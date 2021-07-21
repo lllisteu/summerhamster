@@ -21,6 +21,7 @@ ads-bid.l.doubleclick.net
 bid.g.doubleclick.net
 cm.g.doubleclick.net
 dart.l.doubleclick.net
+doubleclick.net
 fls.doubleclick.net
 googleads.g.doubleclick.com
 googleads.g.doubleclick.net
