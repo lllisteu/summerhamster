@@ -1,0 +1,7 @@
+# label   : promotrades.com
+# tags    : spam,tracking
+# harvest : promotrades
+
+go.promotrades.com
+static.promotrades.com
+unsubscribe.promotrades.com
