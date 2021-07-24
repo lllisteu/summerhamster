@@ -3,3 +3,7 @@
 # summerhamster
 
 Domain blocking data
+
+## Related
+
+* [AmnestyTech/investigations](https://github.com/AmnestyTech/investigations) includes lists of spyware-related domains
