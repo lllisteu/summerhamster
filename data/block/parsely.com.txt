@@ -8,6 +8,7 @@ currents.parsely.com
 fpa-api-arstechnica-com.parsely.com
 fpa-cdn-arstechnica-com.parsely.com
 fpa-events-arstechnica-com.parsely.com
+fpa-events-slate-com.parsely.com
 p1.parsely.com
 parsely.com
 srv.pixel.parsely.com
