@@ -2,4 +2,5 @@
 # tags    : advertising,tracking
 # harvest : lockerdome
 
+cdn2.lockerdomecdn.com
 lockerdome.com
