@@ -2,6 +2,7 @@
 # tags    : advertising
 # harvest : google(.*)synd
 
+buttons.googlesyndication.com
 page2.googlesyndication.com
 pagead2.googlesyndication.com
 tcp.googlesyndication.com

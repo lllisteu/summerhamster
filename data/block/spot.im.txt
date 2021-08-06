@@ -1,0 +1,17 @@
+# label       : spot.im
+# wikidata_id : Q18619496
+# tags        : tracking
+# harvest     : spot\.im|spotim|openweb\.com
+
+api-2-0.spot.im
+direct-events-collector.spot.im
+events-collector.spot.im
+hb.spotim.market
+images.spot.im
+launcher.spot.im
+metrics-logger.spot.im
+pix.spot.im
+player.spotim.market
+publisher-assets.spot.im
+spot.im
+static-cdn.spot.im

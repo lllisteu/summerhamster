@@ -1,0 +1,9 @@
+# label   : aniview.com
+# tags    : advertising,tracking
+# harvest : aniview
+
+go1.aniview.com
+player.aniview.com
+s2s.aniview.com
+sync.aniview.com
+track1.aniview.com

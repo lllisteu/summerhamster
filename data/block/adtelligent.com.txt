@@ -1,0 +1,7 @@
+# label   : adtelligent.com
+# tags    : advertising
+# harvest : adtelligent
+
+ghb.adtelligent.com
+s.adtelligent.com
+sync.adtelligent.com
