@@ -3,6 +3,7 @@
 # harvest : aniview
 
 go1.aniview.com
+play.aniview.com
 player.aniview.com
 s2s.aniview.com
 sync.aniview.com
