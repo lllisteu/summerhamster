@@ -1,0 +1,6 @@
+# label   : ortecadscience.com
+# tags    : advertising
+# harvest : adscience|ortec
+
+adscience-nocookie.nl
+rtb8.adscience.nl
