@@ -1,7 +1,9 @@
 # label   : sailthru.com
 # tags    : tracking,advertising
-# harvest : sail-
+# harvest : sail-|sailthru
 
 ak.sail-horizon.com
 api.sail-personalize.com
 api.sail-track.com
+cb.sailthru.com
+cdn.sailthru.com
