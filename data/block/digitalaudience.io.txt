@@ -1,0 +1,7 @@
+# label   : digitalaudience.io
+# tags    : tracking
+# harvest : (digital|social)audience
+
+socialaudience.nl
+target.digitalaudience.io
+target.socialaudience.nl
