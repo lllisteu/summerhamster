@@ -15,6 +15,7 @@ mscom.demdex.net
 nbcu.demdex.net
 prisacom.demdex.net
 ryanair.demdex.net
+snsbank.demdex.net
 symantec.demdex.net
 vocento.demdex.net
 vrtbe.demdex.net

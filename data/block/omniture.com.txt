@@ -55,6 +55,7 @@ rscomponentsltd.tt.omtrdc.net
 ryanair.tt.omtrdc.net
 schweizerischesbb.tt.omtrdc.net
 snsbank.nl.102.122.2o7.net
+snsbank.sc.omtrdc.net
 snsbank.tt.omtrdc.net
 thestar.com.ssl.sc.omtrdc.net
 tpgpost.d3.sc.omtrdc.net

@@ -2,11 +2,13 @@
 # tags    : advertising
 # harvest : adhese
 
+ads-candid.adhese.com
 ads-mannenmedia.adhese.com
 ads-marktplaats.adhese.com
 ads-ster.adhese.com
 ads-talpa.adhese.com
 ads-tmg.adhese.com
+pool-candid.adhese.com
 pool-mannenmedia.adhese.com
 pool-newskoolmedia.adhese.com
 pool-nrcmedia.adhese.com
