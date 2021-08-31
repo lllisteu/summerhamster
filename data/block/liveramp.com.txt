@@ -1,0 +1,14 @@
+# label   : liveramp.com
+# tags    : tracking
+# harvest : (liveramp\.com|privacymanager\.io)
+
+ccpa-wrapper.privacymanager.io
+ccpa.privacymanager.io
+cmp-consent-tool.privacymanager.io
+dau-prod.launch.liveramp.com
+gdpr-web-dau-prod.privacymanager.io
+gdpr-web-logs-prod.privacymanager.io
+gdpr-wrapper.privacymanager.io
+gdpr.privacymanager.io
+geo.privacymanager.io
+privacymanager.io

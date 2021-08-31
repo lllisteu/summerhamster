@@ -12,6 +12,7 @@ api.taboola.com
 c2.taboola.com
 cdn.taboola.com
 cds.taboola.com
+dualstack.tls13.taboola.map.fastly.net
 f2.taboola.map.fastly.net
 helpers-taboola-com.taboola.prod2.reblaze.com
 helpers.taboola.com

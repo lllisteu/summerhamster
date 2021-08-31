@@ -1,0 +1,10 @@
+# label   : apester.com
+# tags    : tracking,distractions
+# harvest : apester
+
+display.apester.com
+events.apester.com
+img.apester.com
+interaction.apester.com
+renderer.apester.com
+static.apester.com

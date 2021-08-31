@@ -14,6 +14,7 @@ log.outbrain.com
 log.outbrain.org
 log.outbrainimg.com
 mcdp-chidc2.outbrain.com
+nydc1.outbrain.org
 odb.outbrain.com
 outbrain.map.fastly.net
 outbrainimg.com

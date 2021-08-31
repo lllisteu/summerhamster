@@ -1,0 +1,6 @@
+# label   : primis.tech
+# tags    : tracking,distractions
+# harvest : primis
+
+live.primis.tech
+video.primis.tech
