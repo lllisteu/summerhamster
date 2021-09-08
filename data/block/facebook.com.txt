@@ -21,6 +21,7 @@ nl-nl.facebook.com
 scontent-cdt1-1.xx.fbcdn.net
 scontent-dus1-1.xx.fbcdn.net
 scontent-iad3-1.xx.fbcdn.net
+scontent-iad3-2.xx.fbcdn.net
 scontent-lax3-1.xx.fbcdn.net
 scontent-lht6-1.xx.fbcdn.net
 scontent-mxp1-1.xx.fbcdn.net
