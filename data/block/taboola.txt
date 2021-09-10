@@ -8,6 +8,7 @@ am-match.taboola.com
 am-sync.taboola.com
 am-trc-events.taboola.com
 am-vid-events.taboola.com
+am-vip001.taboola.com
 api.taboola.com
 c2.taboola.com
 cdn.taboola.com

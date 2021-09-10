@@ -5,5 +5,6 @@
 
 mab.chartbeat.com
 mabping.chartbeat.net
+pespn.chartbeat.net
 ping.chartbeat.net
 static.chartbeat.com
