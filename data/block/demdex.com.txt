@@ -7,6 +7,7 @@ cbsi.demdex.net
 dpm.demdex.net
 electro.demdex.net
 euronewsgroup.demdex.net
+fandangollc.demdex.net
 fast.mettlertoledointernational.demdex.net
 faz.demdex.net
 foxnews.demdex.net
