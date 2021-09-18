@@ -2,5 +2,6 @@
 # tags    : tracking
 # harvest : richaudience
 
+s.richaudience.com
 shb.richaudience.com
 sync.richaudience.com
