@@ -5,6 +5,7 @@
 ads-candid.adhese.com
 ads-mannenmedia.adhese.com
 ads-marktplaats.adhese.com
+ads-showheroes.adhese.com
 ads-ster.adhese.com
 ads-talpa.adhese.com
 ads-tmg.adhese.com

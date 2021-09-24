@@ -7,5 +7,6 @@ cdn.adsafeprotected.com
 daldt.adsafeprotected.com
 dt.adsafeprotected.com
 fw.adsafeprotected.com
+iepixel.adsafeprotected.com
 pixel.adsafeprotected.com
 static.adsafeprotected.com

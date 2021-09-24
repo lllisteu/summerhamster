@@ -1,0 +1,4 @@
+# label   : binqmedia.nl
+# tags    : advertising
+
+adserver.binqmedia.nl
