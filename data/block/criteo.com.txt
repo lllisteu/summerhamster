@@ -3,6 +3,8 @@
 # tags        : advertising
 # harvest     : criteo
 
+b.fr.eu.criteo.com
+b.nl.eu.criteo.com
 bidder.am5.vip.prod.criteo.com
 bidder.criteo.com
 bidder.par.vip.prod.criteo.com
@@ -11,6 +13,7 @@ csm.fr.eu.criteo.net
 csm.nl.eu.criteo.net
 dis.criteo.com
 dis.eu.criteo.com
+dynamic.criteo.com
 gum.am5.vip.prod.criteo.com
 gum.criteo.com
 gum.par.vip.prod.criteo.com
