@@ -2,5 +2,6 @@
 # tags    : advertising
 # harvest : confiant
 
+confiant-integrations.freetls.fastly.net
 confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
