@@ -3,5 +3,6 @@
 # harvest : adtelligent
 
 ghb.adtelligent.com
+hb.adtelligent.com
 s.adtelligent.com
 sync.adtelligent.com
