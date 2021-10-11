@@ -6,8 +6,10 @@
 addthis.com
 api-public.addthis.com
 cache.addthiscdn.com
+ct5.addthis.com
 m.addthis.com
 m.addthisedge.com
+p.dlx.addthis.com
 s7.addthis.com
 s8.addthis.com
 s9.addthis.com

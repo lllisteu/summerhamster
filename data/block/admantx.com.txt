@@ -2,4 +2,5 @@
 # tags    : tracking,advertising,Integral
 # harvest : admantx
 
+euasync01.admantx.com
 usasync01.admantx.com

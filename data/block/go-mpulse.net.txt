@@ -4,4 +4,5 @@
 
 c.go-mpulse.net
 s.go-mpulse.net
+s2.go-mpulse.net
 wildcard46.go-mpulse.net.edgekey.net
