@@ -1,0 +1,6 @@
+# label   : dpgmedia.cloud
+# tags    : advertising
+# harvest : dpgmedia\.cloud
+
+advertising-cdn.dpgmedia.cloud
+advertising-module.api.dpgmedia.cloud

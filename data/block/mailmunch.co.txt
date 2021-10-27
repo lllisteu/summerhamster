@@ -1,0 +1,6 @@
+# label   : mailmunch.co
+# tags    : tracking
+# harvest : mailmunch
+
+analytics.mailmunch.co
+analytics.mailmunch.co.herokudns.com
