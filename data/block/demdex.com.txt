@@ -9,6 +9,7 @@ dpm.demdex.net
 electro.demdex.net
 euronewsgroup.demdex.net
 fandangollc.demdex.net
+fast.adobe.demdex.net
 fast.mettlertoledointernational.demdex.net
 faz.demdex.net
 foxnews.demdex.net
