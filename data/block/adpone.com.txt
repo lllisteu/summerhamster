@@ -1,0 +1,5 @@
+# label   : adpone.com
+# tags    : advertising
+# harvest : adpone
+
+rtb.adpone.com

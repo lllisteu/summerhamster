@@ -6,6 +6,7 @@ adx.adform.net
 c1.adform.net
 cm.adform.net
 dmp.adform.net
+nstrp.adform.net
 s1-eu.adformnet.akadns.net
 s1.adform.net
 s2.adform.net

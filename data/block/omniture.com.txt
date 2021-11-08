@@ -12,6 +12,7 @@ amazonwebservices.d2.sc.omtrdc.net
 amazonwebservicesinc.tt.omtrdc.net
 analytics.lego.com.ssl.d1.sc.omtrdc.net
 and.co.uk.102.122.2o7.net
+ansible.com.ssl.sc.omtrdc.net
 apple.tt.omtrdc.net
 appleglobal.102.112.2o7.net
 atlanticmedia.sc.omtrdc.net
@@ -21,6 +22,7 @@ cbsi.com.ssl.sc.omtrdc.net
 cdc.112.2o7.net
 cdn.tt.omtrdc.net
 channel4.com.ssl.sc.omtrdc.net
+cnet.com.ssl.sc.omtrdc.net
 cnn.com.102.122.2o7.net
 comeresaprensasl.tt.omtrdc.net
 crutchfield.ca.ssl.sc.omtrdc.net

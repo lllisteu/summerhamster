@@ -3,3 +3,4 @@
 # harvest : weborama\.fr
 
 cstatic.weborama.fr
+turismoportugal.solution.weborama.fr

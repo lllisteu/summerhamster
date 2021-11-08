@@ -2,6 +2,7 @@
 # tags    : advertising
 # harvest : sonobi
 
+ams-1-sync.go.sonobi.com
 apex.go.sonobi.com
 mtrx.go.sonobi.com
 prod.sonobi-go.map.fastly.net

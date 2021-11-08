@@ -2,5 +2,6 @@
 # tags    : tracking
 # harvest : alexametrics
 
+certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify.alexametrics.com
