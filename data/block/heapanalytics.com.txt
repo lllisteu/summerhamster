@@ -4,3 +4,5 @@
 
 cdn.heapanalytics.com
 heapanalytics.com
+info.heap.io
+mura.heap.io
