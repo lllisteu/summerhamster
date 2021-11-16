@@ -7,6 +7,8 @@ bbc.gscontxt.net
 euronews-ams.gscontxt.net
 hearst.gscontxt.net
 iqdigital-ams.gscontxt.net
+pacmags-ash.gscontxt.net
+pacmags.gscontxt.net
 porky.pool.gscontxt.net
 telegraph.grapeshot.co.uk
 theenthusiastnetwork-ash.gscontxt.net

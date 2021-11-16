@@ -14,6 +14,7 @@ fast.mettlertoledointernational.demdex.net
 faz.demdex.net
 foxnews.demdex.net
 iqdigital.demdex.net
+kpnbv.demdex.net
 marktplaats.demdex.net
 mscom.demdex.net
 nbcu.demdex.net

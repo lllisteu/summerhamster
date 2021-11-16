@@ -5,6 +5,7 @@
 
 acdn.adnxs.com
 ams1-ib.adnxs.com
+cdn.adnxs-simple.com
 cdn.adnxs.com
 crcdn01.adnxs.com
 crcdn09.adnxs.com
@@ -14,6 +15,7 @@ ib.adnxs.com
 ib.anycast.adnxs.com
 ib.sand-07.adnxs.net
 ib.sand-08.adnxs.net
+lax1-ib.adnxs-simple.com
 m.adnxs.com
 mediation.adnxs.com
 nym1-ib.adnxs.com

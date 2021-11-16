@@ -5,6 +5,7 @@
 b.sharethrough.com
 btlr-ecs-eu-central-1.sharethrough.com
 btlr.sharethrough.com
+match-eu-central-1-ecs.sharethrough.com
 match.sharethrough.com
 native.sharethrough.com
 sdk.sharethrough.com

@@ -4,4 +4,5 @@
 
 api.bounceexchange.com
 assets.bounceexchange.com
+events.bouncex.net
 tag.bounceexchange.com

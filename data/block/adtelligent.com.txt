@@ -2,6 +2,7 @@
 # tags    : advertising
 # harvest : adtelligent
 
+adtelligent-d.openx.net
 ghb.adtelligent.com
 hb.adtelligent.com
 s.adtelligent.com

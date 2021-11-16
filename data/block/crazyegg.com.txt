@@ -3,7 +3,9 @@
 # harvest : crazyegg
 
 app.crazyegg.com
+assets-tracking.crazyegg.com
 crazyegg-assets.crazyeggcdn.com
+pagestates-tracking.crazyegg.com
 sample-api-v2.crazyegg.com
 sample.crazyegg.com
 script.crazyegg.com

@@ -11,7 +11,9 @@ fastlane.rubiconproject.com
 optimized-by.rubiconproject.com
 pixel-us-east.rubiconproject.com
 pixel.rubiconproject.com
+pixel.rubiconproject.net.akadns.net
 prebid-a.rubiconproject.com
+prebid-server-perf-eu.rubiconproject.net.akadns.net
 prebid-server.rubiconproject.com
 secure-assets.rubiconproject.com
 tagged-by.rubiconproject.net.akadns.net

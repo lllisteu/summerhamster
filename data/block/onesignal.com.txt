@@ -3,4 +3,5 @@
 # harvest : onesignal
 
 cdn.onesignal.com
+img.onesignal.com
 onesignal.com

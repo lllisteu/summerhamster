@@ -5,6 +5,7 @@
 
 api-2-0.spot.im
 direct-events-collector.spot.im
+events-collector-cf.spot.im
 events-collector.spot.im
 hb.spotim.market
 images.spot.im

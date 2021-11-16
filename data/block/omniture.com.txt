@@ -34,6 +34,7 @@ foxnews.tt.omtrdc.net
 go.com.ssl.d1.sc.omtrdc.net
 grunerandjahr.112.2o7.net
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
+kpn.com.102.122.2o7.net
 kpnbv.tt.omtrdc.net
 libertyglobalpaneu.tt.omtrdc.net
 loc.gov.sc.omtrdc.net
@@ -41,6 +42,7 @@ maplesoftinc.tt.omtrdc.net
 mboxedge37.tt.omtrdc.net
 microsoftmscompoc.tt.omtrdc.net
 microsoftsto.112.2o7.net
+microsoftwindows.112.2o7.net
 msftenterprise.sc.omtrdc.net
 nbcnews.com.ssl.sc.omtrdc.net
 nbcume.hb.omtrdc.net
