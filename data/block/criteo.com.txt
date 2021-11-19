@@ -15,6 +15,7 @@ csm.nl.eu.criteo.net
 dis.criteo.com
 dis.eu.criteo.com
 dynamic.criteo.com
+dynamic.par.vip.prod.criteo.com
 gum.am5.vip.prod.criteo.com
 gum.criteo.com
 gum.par.vip.prod.criteo.com

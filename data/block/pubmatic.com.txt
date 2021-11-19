@@ -13,6 +13,7 @@ image2.pubmatic.com
 image6.pubmatic.com
 image8.pubmatic.com
 pug-lhr.pubmatic.com
+pugm-amsfpairb.pubmatic.com
 pugm-lhr.pubmatic.com
 simage2.pubmatic.com
 simage4.pubmatic.com

@@ -2,6 +2,7 @@
 # tags    : tracking
 # harvest : tealium|tiqcdn
 
+akamai.tiqcdn.com
 collect-eu-central-1.tealiumiq.com
 collect.tealiumiq.com
 tags.tiqcdn.com
