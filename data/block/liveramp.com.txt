@@ -12,3 +12,4 @@ gdpr-wrapper.privacymanager.io
 gdpr.privacymanager.io
 geo.privacymanager.io
 privacymanager.io
+vendors.privacymanager.io
