@@ -30,6 +30,8 @@ crutchfield.com.ssl.sc.omtrdc.net
 deutschepostag.112.2o7.net
 espn.hb.omtrdc.net
 faz.tt.omtrdc.net
+fedex.com.ssl.d2.sc.omtrdc.net
+fedex.tt.omtrdc.net
 foxnews.tt.omtrdc.net
 go.com.ssl.d1.sc.omtrdc.net
 grunerandjahr.112.2o7.net

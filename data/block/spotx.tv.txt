@@ -3,6 +3,7 @@
 # tags        : advertising
 # harvest     : spotxchange
 
+ams01.search.spotxchange.com
 ams01.sync.search.spotxchange.com
 geo.search-gtm.spotxchange.com.akadns.net
 search.spotxchange.com

@@ -3,6 +3,7 @@
 # harvest : klaviyo
 
 a.klaviyo.com
+a.klaviyo.com.cdn.cloudflare.net
 fast.a.klaviyo.com
 klaviyo-onsite.map.fastly.net
 static-forms.klaviyo.com

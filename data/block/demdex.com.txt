@@ -12,6 +12,7 @@ fandangollc.demdex.net
 fast.adobe.demdex.net
 fast.mettlertoledointernational.demdex.net
 faz.demdex.net
+fedex.demdex.net
 foxnews.demdex.net
 iqdigital.demdex.net
 kpnbv.demdex.net
