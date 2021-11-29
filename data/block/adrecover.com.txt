@@ -3,3 +3,4 @@
 # harvest : adrecover
 
 delivery.adrecover.com
+delivery.adrecover.com.cdn.cloudflare.net
