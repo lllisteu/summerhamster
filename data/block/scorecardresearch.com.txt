@@ -2,6 +2,7 @@
 # tags    : tracking
 # harvest : scorecardresearch
 
+ads.scorecardresearch.com
 b.scorecardresearch.com
 beacon.scorecardresearch.com
 sb.scorecardresearch.com
