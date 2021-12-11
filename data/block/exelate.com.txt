@@ -2,6 +2,7 @@
 # tags    : tracking,advertising,nielsen
 # harvest : exelat
 
+load-euc1.exelator.com
 load77.exelator.com
 loadeu.exelator.com
 loadm.exelator.com
