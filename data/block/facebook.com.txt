@@ -32,6 +32,7 @@ scontent.xx.fbcdn.net
 sphotos-b.xx.fbcdn.net
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
+star.fallback.c10r.facebook.com
 static.ak.connect.facebook.com
 static.xx.fbcdn.net
 staticxx.facebook.com

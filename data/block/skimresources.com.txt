@@ -1,6 +1,7 @@
 # harvest : skimresources.com
 
 go.skimresources.com
+m.skimresources.com
 p.skimresources.com
 r.skimresources.com
 s.skimresources.com
