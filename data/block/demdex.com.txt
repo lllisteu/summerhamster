@@ -23,6 +23,7 @@ nbcu.demdex.net
 prisacom.demdex.net
 ryanair.demdex.net
 snsbank.demdex.net
+sonyglobal.demdex.net
 symantec.demdex.net
 vocento.demdex.net
 vrtbe.demdex.net

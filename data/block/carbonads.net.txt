@@ -3,6 +3,7 @@
 # harvest : carbonads|buysellads
 
 carbonads.bsa.netdna-cdn.com
+cdn-s2s-buysellads-net.bsa.netdna-cdn.com
 cdn-s2s.buysellads.net
 cdn.carbonads.com
 cdn4-buysellads-net.bsa.netdna-cdn.com

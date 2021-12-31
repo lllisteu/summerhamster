@@ -4,9 +4,11 @@
 
 akamai.tiqcdn.com
 collect-eu-central-1.tealiumiq.com
+collect-eu-west-1.tealiumiq.com
 collect.tealiumiq.com
 tags.tiqcdn.com
 tags.tiqcdn.com.edgekey.net
 uconnect.tealiumiq.com
 visitor-service-eu-central-1.tealiumiq.com
+visitor-service-eu-west-1.tealiumiq.com
 visitor-service.tealiumiq.com

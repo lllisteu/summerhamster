@@ -3,4 +3,5 @@
 # harvest : weborama\.fr
 
 cstatic.weborama.fr
+eurojackpotnl1.solution.weborama.fr
 turismoportugal.solution.weborama.fr
