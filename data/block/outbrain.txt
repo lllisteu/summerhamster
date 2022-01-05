@@ -3,6 +3,7 @@
 # tags        : advertising
 # harvest     : outbrain
 
+alldcs.outbrain.org
 amplify.outbrain.com
 amplifypixel.outbrain.com
 chidc2.outbrain.org
