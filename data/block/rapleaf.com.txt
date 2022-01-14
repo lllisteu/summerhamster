@@ -7,6 +7,7 @@ api.rlcdn.com
 ats.rlcdn.com
 check.analytics.rlcdn.com
 di.rlcdn.com
+ejp.rlcdn.com
 geo.rlcdn.com
 id.rlcdn.com
 idsync.rlcdn.com

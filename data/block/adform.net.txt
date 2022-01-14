@@ -11,6 +11,7 @@ nstrp.adform.net
 s1-eu.adformnet.akadns.net
 s1.adform.net
 s2.adform.net
+s2.adformnet.akadns.net
 track-eu.adformnet.akadns.net
 track.adform.net
 track.adformnet.akadns.net
