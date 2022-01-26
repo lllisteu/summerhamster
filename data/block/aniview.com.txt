@@ -7,4 +7,5 @@ play.aniview.com
 player.aniview.com
 s2s.aniview.com
 sync.aniview.com
+tg1.aniview.com
 track1.aniview.com

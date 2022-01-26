@@ -3,7 +3,10 @@
 # harvest : adtelligent
 
 adtelligent-d.openx.net
+ghb-adtelligent-com.geodns.me
 ghb.adtelligent.com
+ghb1.adtelligent.com
+ghb2.adtelligent.com
 hb.adtelligent.com
 s.adtelligent.com
 sync.adtelligent.com

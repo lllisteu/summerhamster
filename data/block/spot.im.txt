@@ -16,3 +16,4 @@ player.spotim.market
 publisher-assets.spot.im
 spot.im
 static-cdn.spot.im
+sync.spotim.market

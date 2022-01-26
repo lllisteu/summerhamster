@@ -4,11 +4,13 @@
 # harvest : adnxs
 
 acdn.adnxs.com
+adscale-emea.adnxs.com
 ams1-ib.adnxs.com
 cdn.adnxs-simple.com
 cdn.adnxs.com
 crcdn01.adnxs.com
 crcdn09.adnxs.com
+default-emea.ssp.adnxs.net
 fra1-ib.adnxs.com
 ib.adnxs-simple.com
 ib.adnxs.com
