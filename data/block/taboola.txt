@@ -4,6 +4,7 @@
 
 15.taboola.com
 actions-am.taboola.com
+am-api.taboola.com
 am-match.taboola.com
 am-sync.taboola.com
 am-trc-events.taboola.com
