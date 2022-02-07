@@ -1,0 +1,6 @@
+# label   : bidstreamserver.com
+# tags    : advertising
+# harvest : bidstreamserver
+
+ads.bidstreamserver.com
+prebid.bidstreamserver.com

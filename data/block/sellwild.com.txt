@@ -1,0 +1,6 @@
+# label   : sellwild.com
+# tags    : advertising
+# harvest : sellwild
+
+cache.sellwild.com
+widget.sellwild.com

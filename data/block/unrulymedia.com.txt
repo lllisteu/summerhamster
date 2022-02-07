@@ -1,0 +1,9 @@
+# label   : unrulymedia.com
+# tags    : advertising
+# harvest : unrulymedia
+
+native.unrulymedia.com
+rx-stats3.unrulymedia.com
+sync.targeting.unrulymedia.com
+test.corp.unrulymedia.com
+video.unrulymedia.com

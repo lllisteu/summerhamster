@@ -1,0 +1,8 @@
+# label   : ad.gt
+# tags    : cloaking,tracking
+# harvest : ad\.gt
+
+a.ad.gt
+ids.ad.gt
+p.ad.gt
+pixels.ad.gt
