@@ -12,6 +12,7 @@ cas.criteo.com
 csm.am5.vip.prod.criteo.net
 csm.fr.eu.criteo.net
 csm.nl.eu.criteo.net
+csm.par.vip.prod.criteo.net
 dis.criteo.com
 dis.eu.criteo.com
 dynamic.am5.vip.prod.criteo.com

@@ -3,6 +3,7 @@
 # wikidata_id : Q300079
 # harvest     : atinternet|aticdn|xiti
 
+logs.xiti.com
 logs1279.xiti.com
 logs1406.xiti.com
 logs1407.xiti.com
