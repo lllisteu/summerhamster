@@ -3,5 +3,6 @@
 # harvest : smartocto
 
 api.smartocto.com
+ingestion.smartocto.com
 measure.smartocto.com
 tentacles.smartocto.com
