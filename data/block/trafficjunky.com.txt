@@ -3,7 +3,11 @@
 # harvest : trafficjunky
 
 ads.trafficjunky.net
+hw-cdn.trafficjunky.net
 hw-cdn2.trafficjunky.net
+media.trafficjunky.com
 media.trafficjunky.net
 static.trafficjunky.com
+trafficjunky.com
+vz-cdn.trafficjunky.net
 vz-cdn2.trafficjunky.net
