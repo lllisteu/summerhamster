@@ -15,6 +15,7 @@ pixel.rubiconproject.net.akadns.net
 prebid-a.rubiconproject.com
 prebid-server-perf-eu.rubiconproject.net.akadns.net
 prebid-server.rubiconproject.com
+prebid-server.rubiconproject.net.akadns.net
 secure-assets.rubiconproject.com
 tagged-by.rubiconproject.net.akadns.net
 token.rubiconproject.com

@@ -8,6 +8,7 @@ itx4.smartadserver.com
 itx5.smartadserver.com
 prg.smartadserver.com
 prg8.smartadserver.com
+prga.smartadserver.com
 rtb-csync-itx4.smartadserver.com
 rtb-csync-itx5.smartadserver.com
 rtb-csync.smartadserver.com
