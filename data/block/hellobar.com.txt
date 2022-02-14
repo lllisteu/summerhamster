@@ -2,4 +2,6 @@
 # tags    : tracking,popups
 # harvest : hellobar
 
+hi.hellobar.com
 my.hellobar.com
+my.hellobar.com.cdn.cloudflare.net
