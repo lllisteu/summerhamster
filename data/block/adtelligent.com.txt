@@ -8,5 +8,6 @@ ghb.adtelligent.com
 ghb1.adtelligent.com
 ghb2.adtelligent.com
 hb.adtelligent.com
+player.adtelligent.com
 s.adtelligent.com
 sync.adtelligent.com
