@@ -8,6 +8,8 @@ beacon-us-west.rubiconproject.com
 eus.rubiconproject.com
 fastlane-adv.rubiconproject.com
 fastlane.rubiconproject.com
+flapi1.rubiconproject.com
+micro.rubiconproject.com
 optimized-by.rubiconproject.com
 pixel-us-east.rubiconproject.com
 pixel.rubiconproject.com

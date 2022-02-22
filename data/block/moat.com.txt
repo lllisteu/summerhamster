@@ -8,5 +8,6 @@ mb.moatads.com
 moatads.com
 pixel.moatads.com
 px.moatads.com
+s-jsonp.moatads.com
 wildcard.moatads.com.edgekey.net
 z.moatads.com
