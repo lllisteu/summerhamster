@@ -1,0 +1,6 @@
+# label   : optoutadvertising.com
+# tags    : advertising
+# harvest : optoutadvertising
+
+adserving.optoutadvertising.com
+cdn.optoutadvertising.com
