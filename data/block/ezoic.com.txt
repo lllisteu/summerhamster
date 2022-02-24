@@ -1,0 +1,11 @@
+# label   : ezoic.com
+# tags    : advertising,tracking
+# harvest : ezoic|ezodn
+
+ezodn.com
+g.ezodn.com
+go.ezodn.com
+go.ezoic.net
+gvl.ezodn.com
+pb-server.ezoic.com
+sf.ezoiccdn.com

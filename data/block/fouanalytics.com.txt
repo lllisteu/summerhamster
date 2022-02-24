@@ -1,0 +1,5 @@
+# label   : fouanalytics.com
+# tags    : analytics,tracking
+# harvest : fouanalytics
+
+api.fouanalytics.com
