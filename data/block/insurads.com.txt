@@ -1,0 +1,8 @@
+# label   : insurads.com
+# tags    : advertising
+# harvest : insurads
+
+cdn.insurads.com
+insurads.b-cdn.net
+messaging.insurads.com
+services.insurads.com

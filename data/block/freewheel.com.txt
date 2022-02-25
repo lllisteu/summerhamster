@@ -1,5 +1,10 @@
 # label   : freewheel.com
 # tags    : tracking,advertising
-# harvest : freewheel\.com|fwmrm
+# harvest : freewheel|fwmrm
 
+bea4.v.fwmrm.net
+g13v.prd.ads.aws.fwmrm.net
+gslb-aws-us-east-02.v.fwmrm.net
+gslb-aws-us-east-2-02-a.v.fwmrm.net
+gslb-aws-us-east-2-02-b.v.fwmrm.net
 mssl.fwmrm.net

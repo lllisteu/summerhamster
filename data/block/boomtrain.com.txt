@@ -1,0 +1,7 @@
+# label   : boomtrain.com
+# tags    : tracking
+# harvest : boomtrain
+
+cdn.boomtrain.com
+onsiterecs.api.boomtrain.com
+people.api.boomtrain.com

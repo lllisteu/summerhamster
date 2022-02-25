@@ -6,3 +6,4 @@ api.btloader.com
 backend.upapi.net
 btloader.com
 mrb.upapi.net
+static.btloader.com
