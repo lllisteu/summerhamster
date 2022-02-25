@@ -1,6 +1,8 @@
 # label   : blockthrough.com
 # tags    : blockerblocking
-# harvest : upapi
+# harvest : upapi|btloader
 
+api.btloader.com
 backend.upapi.net
+btloader.com
 mrb.upapi.net
