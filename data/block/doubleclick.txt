@@ -44,3 +44,4 @@ stats.g.doubleclick.net
 stats.l.doubleclick.net
 survey.g.doubleclick.net
 www.doubleclickbygoogle.com
+www3.doubleclick.net

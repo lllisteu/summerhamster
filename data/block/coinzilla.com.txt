@@ -1,0 +1,6 @@
+# label   : coinzilla.com
+# tags    : advertising
+# harvest : czilladx|coinzillatag
+
+coinzillatag.com
+request-global.czilladx.com
