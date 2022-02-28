@@ -3,6 +3,7 @@
 # harvest : (^|\.)media\.net
 
 adservex.media.net
+c21lg-d.media.net
 contextual.media.net
 cvision.media.net
 hblg.media.net

@@ -4,6 +4,7 @@
 
 eqx-tmk-geoloc.smartadserver.com
 eqx.smartadserver.com
+euw1.smartadserver.com
 itx4.smartadserver.com
 itx5.smartadserver.com
 prg.smartadserver.com
