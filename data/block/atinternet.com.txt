@@ -4,6 +4,7 @@
 # harvest     : atinternet|aticdn|xiti
 
 logs.xiti.com
+logs1136.xiti.com
 logs1242.xiti.com
 logs1279.xiti.com
 logs1406.xiti.com

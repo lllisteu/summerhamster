@@ -5,5 +5,6 @@
 ads.scorecardresearch.com
 b.scorecardresearch.com
 beacon.scorecardresearch.com
+bs.scorecardresearch.com
 sb.scorecardresearch.com
 sb.scorecardresearch.com.edgekey.net
