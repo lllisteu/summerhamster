@@ -17,6 +17,7 @@ ssbsync-eqx.smartadserver.com
 ssbsync-global.smartadserver.com
 ssbsync-itx4.smartadserver.com
 ssbsync.smartadserver.com
+ssp-csync.smartadserver.com
 sync.smartadserver.com
 ww1097.smartadserver.com
 ww2245.smartadserver.com
