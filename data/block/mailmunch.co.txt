@@ -2,5 +2,6 @@
 # tags    : tracking
 # harvest : mailmunch
 
+a.mailmunch.co
 analytics.mailmunch.co
 analytics.mailmunch.co.herokudns.com

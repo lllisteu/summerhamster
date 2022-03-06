@@ -6,5 +6,6 @@ adpushup-d.openx.net
 aplogger-geo.apdc2n.adpushup.com
 aplogger.adpushup.com
 cdn.adpushup.com
+cdn.adpushup.com.cdn.cloudflare.net
 e3.adpushup.com
 public-webservice.apdc2n.adpushup.com
