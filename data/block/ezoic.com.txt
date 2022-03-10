@@ -3,9 +3,13 @@
 # harvest : ezoic|ezodn
 
 ezodn.com
+ezoic-d.openx.net
 g.ezodn.com
+g.ezoic.net
 go.ezodn.com
 go.ezoic.net
 gvl.ezodn.com
 pb-server.ezoic.com
 sf.ezoiccdn.com
+video-streaming.ezoic.com
+videosvc.ezoic.com
