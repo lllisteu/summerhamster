@@ -5,10 +5,12 @@
 adservex.media.net
 c21lg-d.media.net
 contextual.media.net
+contextualtag.media.net
 cvision.media.net
 hblg.media.net
 hbx.media.net
 lg3.media.net
 lgncal.media.net
+mycdn.media.net
 prebid.media.net
 warp.media.net
