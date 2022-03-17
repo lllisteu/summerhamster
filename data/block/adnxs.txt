@@ -3,6 +3,7 @@
 # tags    : advertising,tracking
 # harvest : adnxs
 
+acdn.adnxs-simple.com
 acdn.adnxs.com
 adscale-emea.adnxs.com
 ams1-ib.adnxs.com
