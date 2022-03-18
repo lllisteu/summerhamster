@@ -4,6 +4,7 @@
 
 amp.permutive.com
 api.permutive.com
+b.api.permutive.app
 buzzfeed.amp.permutive.com
 cdn.permutive.app
 cdn.permutive.com
