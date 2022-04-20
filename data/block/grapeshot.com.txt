@@ -10,6 +10,7 @@ fairfaxmedia.gscontxt.net
 hearst-useast.gscontxt.net
 hearst.gscontxt.net
 iqdigital-ams.gscontxt.net
+irishtimes.grapeshot.co.uk
 pacmags-ash.gscontxt.net
 pacmags.gscontxt.net
 porky.pool.gscontxt.net
