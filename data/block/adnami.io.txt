@@ -1,0 +1,5 @@
+# label   : adnami.io
+# tags    : advertising
+# harvest : adnami
+
+macro.adnami.io
