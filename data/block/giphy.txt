@@ -7,6 +7,8 @@
 api.giphy.com
 giphy.com
 giphyscripts.s3.amazonaws.com
+i.giphy.com
+limited-prod.giphy.map.fastly.net
 media.giphy.com
 media0.giphy.com
 media1.giphy.com

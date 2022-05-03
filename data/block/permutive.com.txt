@@ -8,4 +8,5 @@ b.api.permutive.app
 buzzfeed.amp.permutive.com
 cdn.permutive.app
 cdn.permutive.com
+esi.edge.permutive.app
 vox.amp.permutive.com

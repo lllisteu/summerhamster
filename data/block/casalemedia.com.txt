@@ -10,6 +10,7 @@ as-sec.casalemedia.com
 as.casalemedia.com
 casalemedia.com
 dsum-sec.casalemedia.com
+dsum.casalemedia.com
 htlb.casalemedia.com
 htlb.casalemedia.com.edgekey.net
 ssum-sec.casalemedia.com
