@@ -3,5 +3,7 @@
 # harvest : luckyorange
 
 cdn.luckyorange.com
+settings.luckyorange.com
 settings.luckyorange.net
 ssl.luckyorange.com
+tools.luckyorange.com
