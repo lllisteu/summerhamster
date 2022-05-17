@@ -12,7 +12,9 @@ aax.amazon-adsystem.com
 c.amazon-adsystem.com
 fls-eu.amazon-adsystem.com
 fls-na.amazon-adsystem.com
+ir-de.amazon-adsystem.com
 ir-na.amazon-adsystem.com
+rcm-eu.amazon-adsystem.com
 rcm-na.amazon-adsystem.com
 s.amazon-adsystem.com
 wms-eu.amazon-adsystem.com

@@ -4,6 +4,7 @@
 
 load-euc1.exelator.com
 load77.exelator.com
+loada.exelator.com
 loadeu.exelator.com
 loadm.exelator.com
 loadus.exelator.com
