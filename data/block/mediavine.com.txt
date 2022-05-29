@@ -1,0 +1,8 @@
+# label   : mediavine.com
+# tags    : advertising
+# harvest : mediavine
+
+exchange.mediavine.com
+keywords.mediavine.com
+pages.mediavine.com
+scripts.mediavine.com
