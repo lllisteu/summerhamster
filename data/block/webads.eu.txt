@@ -1,0 +1,6 @@
+# label   : webads.eu
+# tags    : tracking,advertising
+# harvest : webads
+
+analytics.webads.eu
+vps008.webads.eu
