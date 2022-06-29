@@ -11,6 +11,7 @@ hb.spotim.market
 images.spot.im
 launcher.spot.im
 metrics-logger.spot.im
+open-api.spot.im
 pix.spot.im
 player.spotim.market
 publisher-assets.spot.im

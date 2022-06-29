@@ -2,5 +2,7 @@
 # tags    : tracking
 # harvest : kissmetrics
 
+i.kissmetrics.com
 scripts.kissmetrics.com
+trc.kissmetrics.com
 trk.kissmetrics.com
