@@ -13,6 +13,7 @@ external.xx.fbcdn.net
 facebook.com
 facebook.net
 fbcdn-sphotos-e-a.akamaihd.net
+fr-ca.facebook.com
 graph.facebook.com
 instagram.c10r.facebook.com
 instagram.fdac45-1.fna.fbcdn.net

@@ -4,3 +4,4 @@
 
 advertising-cdn.dpgmedia.cloud
 advertising-module.api.dpgmedia.cloud
+temptation-module-assets.api.dpgmedia.cloud

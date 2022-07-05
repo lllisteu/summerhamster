@@ -36,6 +36,7 @@ fedex.com.ssl.d2.sc.omtrdc.net
 fedex.tt.omtrdc.net
 foxnews.tt.omtrdc.net
 go.com.ssl.d1.sc.omtrdc.net
+grafana.tt.omtrdc.net
 grunerandjahr.112.2o7.net
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 kpn.com.102.122.2o7.net
