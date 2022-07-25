@@ -3,4 +3,6 @@
 # harvest : seedtag
 
 config.seedtag.com
+ping.seedtag.com
 s.seedtag.com
+t.seedtag.com

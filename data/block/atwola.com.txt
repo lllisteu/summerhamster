@@ -3,6 +3,7 @@
 # harvest : atwola
 
 20.at.atwola.com
+22.at.atwola.com
 26.at.atwola.com
 6.at.atwola.com
 at.atwola.com

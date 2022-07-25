@@ -1,0 +1,7 @@
+# label   : adscale.de
+# tags    : advertising,tracking
+# harvest : adscale
+
+hb.adscale.de
+ih.adscale.de
+js.adscale.de
