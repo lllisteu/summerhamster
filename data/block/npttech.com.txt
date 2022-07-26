@@ -1,0 +1,5 @@
+# label   : npttech.com
+# tags    : advertising
+# harvest : npttech
+
+www.npttech.com
