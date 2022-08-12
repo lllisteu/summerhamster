@@ -3,4 +3,5 @@
 # harvest : pushengage
 
 clientcdn.pushengage.com
+indebuurt.pushengage.com
 volkskrant.pushengage.com
