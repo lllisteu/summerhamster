@@ -1,0 +1,5 @@
+# label   : strossle.com
+# tags    : advertising,tracking
+# harvest : strossle|sprinklecontent
+
+widgets.sprinklecontent.com
