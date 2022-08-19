@@ -12,4 +12,5 @@ logs1407.xiti.com
 logs1411.xiti.com
 logs1414.xiti.com
 logs4.xiti.com
+logv145.xiti.com
 tag.aticdn.net

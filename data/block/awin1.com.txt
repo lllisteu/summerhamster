@@ -1,0 +1,6 @@
+# label   : awin1.com
+# tags    : advertising
+# harvest : awin1
+
+a1.awin1.com
+www.awin1.com

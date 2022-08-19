@@ -1,0 +1,6 @@
+# label   : metaffiliation.com
+# tags    : advertising
+# harvest : metaffiliation
+
+action.metaffiliation.com
+img.metaffiliation.com

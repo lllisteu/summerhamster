@@ -1,0 +1,6 @@
+# label   : effiliation.com
+# tags    : advertising,tracking
+# harvest : effiliation
+
+hosting.effiliation.com
+track.effiliation.com

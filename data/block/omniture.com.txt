@@ -50,6 +50,7 @@ mboxedge37.tt.omtrdc.net
 microsoftmscompoc.tt.omtrdc.net
 microsoftsto.112.2o7.net
 microsoftwindows.112.2o7.net
+motortrend.com.ssl.sc.omtrdc.net
 msftenterprise.sc.omtrdc.net
 nbcnews.com.ssl.sc.omtrdc.net
 nbcume.hb.omtrdc.net
