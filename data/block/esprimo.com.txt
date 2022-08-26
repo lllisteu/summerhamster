@@ -1,0 +1,6 @@
+# label   : esprimo.com
+# tags    : advertising
+# harvest : esprimo
+
+advx.esprimo.com
+giornali02.esprimo.com

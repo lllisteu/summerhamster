@@ -2,4 +2,6 @@
 # tags    : advertising
 # harvest : adpone
 
+adpone-d.openx.net
+hb.adpone.com
 rtb.adpone.com
