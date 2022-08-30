@@ -2,6 +2,10 @@
 # tags    : tracking
 # harvest : tradedoubler
 
+analytics.tradedoubler.com
+clk.tradedoubler.com
 img.tradedoubler.com
 impes.tradedoubler.com
+svht.tradedoubler.com
 swrap.tradedoubler.com
+vht.tradedoubler.com
