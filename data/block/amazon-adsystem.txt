@@ -3,6 +3,7 @@
 # harvest : amazon-adsystem
 
 aan.amazon-adsystem.com
+aax-dtb-cf.amazon-adsystem.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
