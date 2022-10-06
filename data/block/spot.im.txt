@@ -3,6 +3,7 @@
 # tags        : tracking
 # harvest     : spot\.im|spotim|openweb\.com
 
+amp.spot.im
 api-2-0.spot.im
 direct-events-collector.spot.im
 events-collector-cf.spot.im

@@ -11,7 +11,10 @@ fastlane.rubiconproject.com
 flapi1.rubiconproject.com
 micro.rubiconproject.com
 optimized-by.rubiconproject.com
+pg-prebid-server.rubiconproject.com
 pixel-us-east.rubiconproject.com
+pixel-us-west.rubiconproject.com
+pixel-us-west.rubiconproject.net.akadns.net
 pixel.rubiconproject.com
 pixel.rubiconproject.net.akadns.net
 prebid-a.rubiconproject.com

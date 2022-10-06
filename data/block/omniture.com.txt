@@ -29,6 +29,7 @@ comeresaprensasl.tt.omtrdc.net
 crutchfield.ca.ssl.sc.omtrdc.net
 crutchfield.com.ssl.sc.omtrdc.net
 deutschepostag.112.2o7.net
+dowjoneson.com.ssl.sc.omtrdc.net
 environmentals.tt.omtrdc.net
 espn.hb.omtrdc.net
 faz.tt.omtrdc.net

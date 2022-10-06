@@ -3,6 +3,7 @@
 # harvest : (^|\.)media\.net
 
 adservex.media.net
+amprtc.media.net
 c21lg-d.media.net
 contextual.media.net
 contextualtag.media.net
@@ -13,4 +14,5 @@ lg3.media.net
 lgncal.media.net
 mycdn.media.net
 prebid.media.net
+prog-global.media.net
 warp.media.net
