@@ -6,6 +6,7 @@ aaas.demdex.net
 att.demdex.net
 cbcca.demdex.net
 cbsi.demdex.net
+disney.demdex.net
 dpm.demdex.net
 electro.demdex.net
 euronewsgroup.demdex.net

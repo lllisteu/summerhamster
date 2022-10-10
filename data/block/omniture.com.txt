@@ -78,7 +78,9 @@ snsbank.tt.omtrdc.net
 sonyglobal.d1.sc.omtrdc.net
 tcm.com.102.122.2o7.net
 thestar.com.ssl.sc.omtrdc.net
+tmbi.tt.omtrdc.net
 tpgpost.d3.sc.omtrdc.net
+trustedmediabrands.sc.omtrdc.net
 ubmtech.d3.sc.omtrdc.net
 upc.d2.sc.omtrdc.net
 vlaamseradio.tt.omtrdc.net
