@@ -9,6 +9,8 @@ atlas.c10r.facebook.com
 badge.facebook.com
 connect.facebook.net
 connet.facebook.net
+de-de.facebook.com
+developers.facebook.com
 external.xx.fbcdn.net
 facebook.com
 facebook.net

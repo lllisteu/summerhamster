@@ -2,6 +2,7 @@
 # tags    : advertising
 # harvest : technoratimedia
 
+insticator.technoratimedia.com
 newor.technoratimedia.com
 prebid.technoratimedia.com
 sync.technoratimedia.com
@@ -11,3 +12,4 @@ v03.cap-ash1.technoratimedia.com
 v04.cap-ash1.technoratimedia.com
 v06.cap-ash1.technoratimedia.com
 v07.cap-ash1.technoratimedia.com
+v11.cap-ash1.technoratimedia.com

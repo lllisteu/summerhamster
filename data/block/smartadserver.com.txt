@@ -2,6 +2,8 @@
 # tags    : advertising
 # harvest : smartadserver
 
+csync-eu.smartadserver.com
+csync-global.smartadserver.com
 eqx-tmk-geoloc.smartadserver.com
 eqx.smartadserver.com
 euw1.smartadserver.com

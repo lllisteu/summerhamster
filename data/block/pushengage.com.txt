@@ -5,3 +5,4 @@
 clientcdn.pushengage.com
 indebuurt.pushengage.com
 volkskrant.pushengage.com
+vtwonen.pushengage.com
