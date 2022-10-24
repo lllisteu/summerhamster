@@ -2,4 +2,5 @@
 # tags    : advertising,tracking
 # harvest : strossle|sprinklecontent
 
+assets.strossle.com
 widgets.sprinklecontent.com

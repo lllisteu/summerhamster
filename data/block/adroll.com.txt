@@ -2,6 +2,7 @@
 # tags    : tracking,advertising
 # harvest : adroll
 
+a.adroll.com
 assets1.adroll.com
 d.adroll.com
 s.adroll.com
