@@ -1,0 +1,6 @@
+# label   : dotmetrics.net
+# tags    : tracking
+# harvest : dotmetrics
+
+rm-script.dotmetrics.net
+uk-script.dotmetrics.net
