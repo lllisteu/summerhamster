@@ -1,0 +1,8 @@
+# label   : snigel.com
+# tags    : advertising
+# harvest : snigel
+
+adengine.snigelweb.com
+argus-fra1.snigelweb.com
+cdn.snigelweb.com
+snigel-d.openx.net

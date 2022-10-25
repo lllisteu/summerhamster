@@ -1,0 +1,5 @@
+# label   : smilewanted.com
+# tags    : advertising
+# harvest : smilewanted
+
+prebid.smilewanted.com

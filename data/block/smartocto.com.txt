@@ -1,8 +1,9 @@
 # label   : smartocto.com
 # tags    : tracking
-# harvest : smartocto
+# harvest : smartocto|contentinsights
 
 api.smartocto.com
+ingestion.contentinsights.com
 ingestion.smartocto.com
 measure.smartocto.com
 tentacles.smartocto.com

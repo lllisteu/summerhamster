@@ -1,0 +1,7 @@
+# label       : demandbase.com
+# tags        : tracking
+# harvest     : demandbase
+# wikidata_id : Q16834870
+
+api.demandbase.com
+autocomplete.demandbase.com
