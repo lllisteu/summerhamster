@@ -1,9 +1,12 @@
-# label : google-ads
-# tags  : advertising,google
+# label   : google-ads
+# tags    : advertising,google
+# harvest : googleads
 
 ade.googlesyndication.com
 adservice.google.com
 adservice.google.nl
 pagead2.googlesyndication.com
+partner.googleadservices.com
+partner46.googleadservices.com
 tpc.googlesyndication.com
 www.googleadservices.com
