@@ -1,0 +1,12 @@
+# label       : sharethis.com
+# tags        : tracking
+# wikidata_id : Q4049371
+# harvest     : sharethis
+
+buttons-config.sharethis.com
+httplogserver-lb.global.unified-prod.sharethis.net
+l.sharethis.com
+platform-api.sharethis.com
+platform-cdn.sharethis.com
+w.sharethis.com
+ws.sharethis.com

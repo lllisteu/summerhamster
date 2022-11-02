@@ -1,0 +1,6 @@
+# label       : addtoany.com
+# wikidata_id : Q4680974
+# tags        : tracking
+# harvest     : addtoany
+
+static.addtoany.com

@@ -6,6 +6,7 @@ c.mgid.com
 cdn.mgid.com
 cm.mgid.com
 jsc.mgid.com
+prebid.mgid.com
 s-img.mgid.com
 servicer.mgid.com
 widgets.mgid.com
