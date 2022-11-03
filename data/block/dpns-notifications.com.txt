@@ -1,0 +1,8 @@
+# label   : dpns-notifications.com
+# tags    : tracking,cloaking,popups
+# harvest : dpns-notifications
+
+client.dpns-notifications.com
+config.dpns-notifications.com
+ping.dpns-notifications.com
+web-sdk.dpns-notifications.com
