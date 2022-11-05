@@ -82,6 +82,7 @@ thestar.com.ssl.sc.omtrdc.net
 tmbi.tt.omtrdc.net
 tpgpost.d3.sc.omtrdc.net
 trustedmediabrands.sc.omtrdc.net
+twitterinc.tt.omtrdc.net
 ubmtech.d3.sc.omtrdc.net
 upc.d2.sc.omtrdc.net
 vlaamseradio.tt.omtrdc.net
