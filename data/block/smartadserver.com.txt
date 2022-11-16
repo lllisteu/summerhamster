@@ -21,12 +21,14 @@ ssbsync-itx4.smartadserver.com
 ssbsync.smartadserver.com
 ssp-csync.smartadserver.com
 sync.smartadserver.com
+tmk.smartadserver.com
 videoapi.smartadserver.com
 videodiff-geo.smartadserver.com
 videodiff-itx4.smartadserver.com
 videodiff-itx5.smartadserver.com
 ww1097.smartadserver.com
 ww2245.smartadserver.com
+www15.smartadserver.com
 www3.smartadserver.com
 www8.smartadserver.com
 www9.smartadserver.com
