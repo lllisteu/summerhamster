@@ -3,6 +3,7 @@
 # harvest : tremorhub
 
 eq97f.publishers.tremorhub.com
+partners.tremorhub.com
 qds0l.publishers.tremorhub.com
 simplifi.partners.tremorhub.com
 yahoo.publishers.tremorhub.com
