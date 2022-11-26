@@ -12,7 +12,9 @@ bidder.par.vip.prod.criteo.com
 cas.am5.vip.prod.criteo.com
 cas.criteo.com
 cat.am5.vip.prod.criteo.com
+cat.fr.eu.criteo.com
 cat.nl.eu.criteo.com
+cat.par.vip.prod.criteo.com
 csm.am5.vip.prod.criteo.net
 csm.eu.criteo.net
 csm.fr.eu.criteo.net

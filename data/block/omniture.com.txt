@@ -44,6 +44,7 @@ kpn.com.102.122.2o7.net
 kpnbv.tt.omtrdc.net
 libertyglobalpaneu.tt.omtrdc.net
 loc.gov.sc.omtrdc.net
+loc.gov.ssl.sc.omtrdc.net
 maplesoftinc.tt.omtrdc.net
 mboxedge37-alb.tt.omtrdc.net
 mboxedge37-alb02.tt.omtrdc.net
