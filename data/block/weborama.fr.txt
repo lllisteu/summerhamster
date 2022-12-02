@@ -4,4 +4,5 @@
 
 cstatic.weborama.fr
 eurojackpotnl1.solution.weborama.fr
+redirect.frontend.weborama.fr
 turismoportugal.solution.weborama.fr

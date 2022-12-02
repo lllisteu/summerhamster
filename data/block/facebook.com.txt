@@ -38,6 +38,7 @@ star-mini.c10r.facebook.com
 star.c10r.facebook.com
 star.fallback.c10r.facebook.com
 static.ak.connect.facebook.com
+static.ak.fbcdn.net
 static.xx.fbcdn.net
 staticxx.facebook.com
 www.facebook.com

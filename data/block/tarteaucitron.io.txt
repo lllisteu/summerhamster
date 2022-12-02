@@ -1,0 +1,6 @@
+# label   : tarteaucitron.io
+# tags    : tracking
+# harvest : tarteaucitron
+
+status.tarteaucitron.io
+tarteaucitron.io
