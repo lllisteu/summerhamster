@@ -9,6 +9,7 @@ checkout-service.paddle.com
 checkout.paddle.com
 create-checkout.paddle.com
 data.paddle.com
+ld.paddle.com
 paddle.s3.amazonaws.com
 v3.paddleapi.com
 www.paddleapi.com
