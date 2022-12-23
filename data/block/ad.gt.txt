@@ -6,3 +6,4 @@ a.ad.gt
 ids.ad.gt
 p.ad.gt
 pixels.ad.gt
+seg.ad.gt
