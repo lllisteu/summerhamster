@@ -32,6 +32,7 @@ deutschepostag.112.2o7.net
 dowjoneson.com.ssl.sc.omtrdc.net
 environmentals.tt.omtrdc.net
 espn.hb.omtrdc.net
+faz.net.ssl.sc.omtrdc.net
 faz.tt.omtrdc.net
 fedex.com.ssl.d2.sc.omtrdc.net
 fedex.tt.omtrdc.net

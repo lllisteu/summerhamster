@@ -8,6 +8,7 @@ cdn.optimizely.com
 cdn3.optimizely.com
 errors.client.optimizely.com
 logx.optimizely.com
+optimizely.techtarget.com
 optimizely.wsj.com
 rum.optimizely.com
 tapi.optimizely.com
