@@ -18,6 +18,7 @@ fedex.demdex.net
 foxnews.demdex.net
 iqdigital.demdex.net
 kpnbv.demdex.net
+lnkd.demdex.net
 marktplaats.demdex.net
 mscom.demdex.net
 nbcu.demdex.net
