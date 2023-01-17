@@ -11,5 +11,7 @@ gdpr-web-logs-prod.privacymanager.io
 gdpr-wrapper.privacymanager.io
 gdpr.privacymanager.io
 geo.privacymanager.io
+launchpad-wrapper.privacymanager.io
+launchpad.privacymanager.io
 privacymanager.io
 vendors.privacymanager.io

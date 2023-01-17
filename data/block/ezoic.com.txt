@@ -8,6 +8,7 @@ ezoic-d.openx.net
 g.ezodn.com
 g.ezoic.net
 go.ezodn.com
+go.ezodn.net
 go.ezoic.net
 gvl.ezodn.com
 pb-server.ezoic.com

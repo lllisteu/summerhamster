@@ -5,6 +5,7 @@
 audit-tcfv2.quantcast.mgr.consensu.org
 audit.quantcast.mgr.consensu.org
 cdn.consentmanager.mgr.consensu.org
+clickio.mgr.consensu.org
 consentmanager.mgr.consensu.org
 quantcast.mgr.consensu.org
 sourcepoint.mgr.consensu.org
