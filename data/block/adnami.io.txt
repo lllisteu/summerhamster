@@ -2,4 +2,5 @@
 # tags    : advertising
 # harvest : adnami
 
+functions.adnami.io
 macro.adnami.io

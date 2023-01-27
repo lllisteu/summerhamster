@@ -10,6 +10,7 @@ disney.demdex.net
 dpm.demdex.net
 electro.demdex.net
 euronewsgroup.demdex.net
+fairfax.demdex.net
 fandangollc.demdex.net
 fast.adobe.demdex.net
 fast.mettlertoledointernational.demdex.net

@@ -11,6 +11,7 @@ connect.facebook.net
 connet.facebook.net
 de-de.facebook.com
 developers.facebook.com
+es-la.facebook.com
 external.xx.fbcdn.net
 facebook.com
 facebook.net
