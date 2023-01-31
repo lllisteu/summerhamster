@@ -5,3 +5,4 @@
 
 api.demandbase.com
 autocomplete.demandbase.com
+scripts.demandbase.com

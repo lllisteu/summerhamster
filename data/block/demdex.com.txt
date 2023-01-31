@@ -9,6 +9,7 @@ cbsi.demdex.net
 disney.demdex.net
 dpm.demdex.net
 electro.demdex.net
+esri.demdex.net
 euronewsgroup.demdex.net
 fairfax.demdex.net
 fandangollc.demdex.net
