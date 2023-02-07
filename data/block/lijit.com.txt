@@ -8,5 +8,6 @@ emea.vap.lijit.com
 gslbeacon.lijit.com
 lijit2waycm.netmng.com
 oeu.vap.lijit.com
+pythia-qa.awscloud.lijit.com
 vap.lijit.com
 www.lijit.com

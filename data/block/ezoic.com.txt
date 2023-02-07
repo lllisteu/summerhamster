@@ -12,6 +12,8 @@ go.ezodn.net
 go.ezoic.net
 gvl.ezodn.com
 pb-server.ezoic.com
+privacy.ezodn.com
 sf.ezoiccdn.com
+svc.ezoic.com
 video-streaming.ezoic.com
 videosvc.ezoic.com

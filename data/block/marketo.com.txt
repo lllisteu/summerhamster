@@ -10,6 +10,7 @@ app-ab13.marketo.com
 app-ab15.marketo.com
 app-ab24.marketo.com
 app-abm.marketo.com
+app-sj28.marketo.com
 app-sjn.marketo.com
 marketo.clearbit.com
 munchkin.marketo.net

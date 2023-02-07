@@ -7,6 +7,7 @@ api.facebook.com
 apps.facebook.com
 atlas.c10r.facebook.com
 badge.facebook.com
+connect.facebook.com
 connect.facebook.net
 connet.facebook.net
 de-de.facebook.com
