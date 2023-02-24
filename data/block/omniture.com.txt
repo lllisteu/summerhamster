@@ -94,5 +94,6 @@ vrt.sc.omtrdc.net
 washingtonpost.com.112.2o7.net
 weather.com.ssl.sc.omtrdc.net
 welt.de.ssl.sc.omtrdc.net
+westservicesfindlaw.tt.omtrdc.net
 worldcat.org.112.2o7.net
 zdnet.com.ssl.sc.omtrdc.net

@@ -23,6 +23,7 @@ instagram.c10r.facebook.com
 instagram.fdac45-1.fna.fbcdn.net
 instagram.fvno1-1.fna.fbcdn.net
 instagram.fybz2-1.fna.fbcdn.net
+l.facebook.com
 nl-nl.facebook.com
 scontent-ams4-1.xx.fbcdn.net
 scontent-cdt1-1.xx.fbcdn.net
@@ -44,5 +45,6 @@ static.ak.fbcdn.net
 static.xx.fbcdn.net
 staticxx.facebook.com
 www.facebook.com
+z-m.c10r.facebook.com
 z-p42-instagram.c10r.facebook.com
 zh-cn.facebook.com

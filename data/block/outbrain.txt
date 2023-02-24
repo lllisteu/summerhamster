@@ -19,6 +19,7 @@ nydc1.outbrain.org
 odb.outbrain.com
 outbrain.map.fastly.net
 outbrainimg.com
+paid.outbrain.com
 stas.outbrain.com
 sync.outbrain.com
 tcheck.outbrainimg.com
