@@ -61,6 +61,8 @@ nbcume.sc.omtrdc.net
 nhkonline.hb.omtrdc.net
 nintendo.com.102.112.2o7.net
 nintendoofamerica.tt.omtrdc.net
+nzz.d3.sc.omtrdc.net
+nzz.tt.omtrdc.net
 opensource.com.ssl.sc.omtrdc.net
 oracle.112.2o7.net
 philips.112.2o7.net
