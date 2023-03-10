@@ -2,6 +2,7 @@
 # tags    : tracking
 # harvest : (liveramp\.com|privacymanager\.io)
 
+ats-wrapper.privacymanager.io
 ccpa-wrapper.privacymanager.io
 ccpa.privacymanager.io
 cmp-consent-tool.privacymanager.io
