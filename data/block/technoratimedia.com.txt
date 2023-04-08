@@ -2,7 +2,9 @@
 # tags    : advertising
 # harvest : technoratimedia
 
+adserver.technoratimedia.com
 insticator.technoratimedia.com
+jwplayer.technoratimedia.com
 newor.technoratimedia.com
 prebid.technoratimedia.com
 pubgenius.technoratimedia.com

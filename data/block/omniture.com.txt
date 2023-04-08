@@ -58,6 +58,7 @@ msftenterprise.sc.omtrdc.net
 nbcnews.com.ssl.sc.omtrdc.net
 nbcume.hb.omtrdc.net
 nbcume.sc.omtrdc.net
+nbcuni.com.ssl.sc.omtrdc.net
 nhkonline.hb.omtrdc.net
 nintendo.com.102.112.2o7.net
 nintendoofamerica.tt.omtrdc.net
