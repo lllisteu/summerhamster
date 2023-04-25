@@ -1,0 +1,5 @@
+# label   : malisto.com
+# tags    : tracking
+# harvest : malisto.com
+
+analytics.malisto.com
