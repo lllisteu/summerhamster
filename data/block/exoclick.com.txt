@@ -1,0 +1,7 @@
+# label       : exoclick.com
+# wikidata_id : Q5420473
+# tags        : advertising
+# harvest     : exoclick
+
+a.exoclick.com
+ads.exoclick.com
