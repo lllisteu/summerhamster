@@ -1,0 +1,6 @@
+# label   : privacy-center.org
+# tags    : tracking,popups
+# harvest : privacy-center
+
+api.privacy-center.org
+sdk.privacy-center.org
