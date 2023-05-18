@@ -4,5 +4,6 @@
 
 insights-collector.newrelic.com
 js-agent.newrelic.com
+newrelic.com
 newrelic.map.fastly.net
 tls12.newrelic.com.cdn.cloudflare.net

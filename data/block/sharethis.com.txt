@@ -10,3 +10,4 @@ platform-api.sharethis.com
 platform-cdn.sharethis.com
 w.sharethis.com
 ws.sharethis.com
+www.sharethis.com

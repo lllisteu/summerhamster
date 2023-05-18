@@ -6,6 +6,7 @@
 _mboxedge26.tt.omtrdc.net
 abnamro.sc.omtrdc.net
 abnamro.tt.omtrdc.net
+adobe.com.ssl.d1.sc.omtrdc.net
 adobe.tt.omtrdc.net
 amazoncustomerservice.d2.sc.omtrdc.net
 amazonwebservices.d2.sc.omtrdc.net

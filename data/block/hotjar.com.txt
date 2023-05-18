@@ -18,3 +18,4 @@ vc-live-cf.hotjar.io
 vc.hotjar.io
 vc.hotjar.io.c.section.io
 ws3.hotjar.com
+www.hotjar.com
