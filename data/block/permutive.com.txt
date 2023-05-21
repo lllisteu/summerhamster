@@ -9,4 +9,5 @@ buzzfeed.amp.permutive.com
 cdn.permutive.app
 cdn.permutive.com
 esi.edge.permutive.app
+guardian.amp.permutive.com
 vox.amp.permutive.com

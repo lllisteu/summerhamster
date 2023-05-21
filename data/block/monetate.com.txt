@@ -2,6 +2,8 @@
 # tags    : tracking
 # harvest : monetate
 
+d.monetate-prod.zone
+d.monetate.net
 f.monetate-prod.zone
 f.monetate.net
 sb.monetate.net

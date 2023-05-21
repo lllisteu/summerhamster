@@ -3,6 +3,7 @@
 # harvest : ezoic|ezodn
 
 basher.ezodn.com
+bshr.ezodn.com
 ezodn.com
 ezoic-d.openx.net
 g.ezodn.com

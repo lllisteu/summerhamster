@@ -3,6 +3,7 @@
 # harvest : google(.*)synd
 
 ade.googlesyndication.com
+afs.googlesyndication.com
 buttons.googlesyndication.com
 page2.googlesyndication.com
 pagead2.googlesyndication.com

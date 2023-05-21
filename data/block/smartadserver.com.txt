@@ -2,11 +2,14 @@
 # tags    : advertising
 # harvest : smartadserver
 
+akamai.smartadserver.com.edgesuite.net
 csync-eu.smartadserver.com
 csync-global.smartadserver.com
+diff.smartadserver.com
 eqx-tmk-geoloc.smartadserver.com
 eqx.smartadserver.com
 euw1.smartadserver.com
+euw2.smartadserver.com
 itx4.smartadserver.com
 itx5.smartadserver.com
 prg.smartadserver.com
