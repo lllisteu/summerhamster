@@ -1,0 +1,5 @@
+# label   : kameleoon.com
+# tags    : tracking
+# harvest : kameleoon
+
+data.kameleoon.io
