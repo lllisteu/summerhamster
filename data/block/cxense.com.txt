@@ -8,6 +8,7 @@ cdn.cxense.com
 comcluster.cxense.com
 content-thumbnail.cxpublic.com
 csm.cxpublic.com
+csyn-r.cxense.com
 csyn.cxense.com
 id.cxense.com
 scdn.cxense.com

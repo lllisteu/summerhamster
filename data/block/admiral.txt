@@ -1,20 +1,23 @@
 # label      : admiral
 # tags       : blockerblocking,cloaking
+# harvest    : admiral
 # transclude : https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 
 acidpigs.com
 aloofvest.com
 enormousearth.com
 haltinggold.com
-hystericalcloth.com
 hocgeese.com
 honeybulb.com
 honorableland.com
+hystericalcloth.com
+images.getadmiral.com
 lovelydrum.com
 petiteumbrella.com
 plantdigestion.com
 profusesupport.com
 regularplants.com
+scaredsnakes.com
 scaredsong.com
 sicksmash.com
 soggysponge.com
