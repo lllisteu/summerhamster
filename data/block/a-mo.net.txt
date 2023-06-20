@@ -1,0 +1,7 @@
+# label   : a-mo.net
+# tags    : advertising
+# harvest : a-mo\.net
+
+1x1.a-mo.net
+assets.a-mo.net
+prebid.a-mo.net

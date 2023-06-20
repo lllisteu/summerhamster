@@ -5,6 +5,7 @@
 
 acdn.adnxs-simple.com
 acdn.adnxs.com
+adnxs.com
 adscale-emea.adnxs.com
 ams1-ib.adnxs.com
 ams3-ib.adnxs.com

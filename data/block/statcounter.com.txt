@@ -1,0 +1,6 @@
+# label   : statcounter.com
+# tags    : tracking
+# harvest : statcounter\.com
+
+c.statcounter.com
+www.statcounter.com

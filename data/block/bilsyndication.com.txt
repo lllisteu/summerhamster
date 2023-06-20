@@ -1,0 +1,7 @@
+# label   : bilsyndication.com
+# tags    : advertising,tracking
+# harvest : bilsyndication
+
+assets.bilsyndication.com
+media.bilsyndication.com
+services.bilsyndication.com

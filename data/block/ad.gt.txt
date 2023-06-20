@@ -3,6 +3,7 @@
 # harvest : ad\.gt
 
 a.ad.gt
+id.hadron.ad.gt
 ids.ad.gt
 p.ad.gt
 pixels.ad.gt

@@ -1,0 +1,5 @@
+# label   : creativecdn.com
+# tags    : advertising
+# harvest : creativecdn\.com
+
+prebid-eu.creativecdn.com
