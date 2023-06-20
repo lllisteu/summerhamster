@@ -1,0 +1,5 @@
+# label   : cookielaw.org
+# tags    : popups
+# harvest : cookielaw.org
+
+cdn.cookielaw.org

@@ -1,0 +1,6 @@
+# label   : cookiebot.com
+# tags    : popups,tracking
+# harvest : cookiebot\.com
+
+consent.cookiebot.com
+consentcdn.cookiebot.com

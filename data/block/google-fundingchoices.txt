@@ -1,0 +1,5 @@
+# label   : google-fundingchoices
+# tags    : popups
+# harvest : fundingchoicesmessages
+
+fundingchoicesmessages.google.com
