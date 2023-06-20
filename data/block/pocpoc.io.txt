@@ -1,0 +1,7 @@
+# label   : pocpoc.io
+# tags    : advertising
+# harvest : pocpoc
+
+adsystem.pocpoc.io
+cdn.pocpoc.io
+px.pocpoc.io

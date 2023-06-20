@@ -2,10 +2,16 @@
 # tags    : tracking,advertising
 # harvest : casale
 
+a1311.casalemedia.com
+a1435.casalemedia.com
 a2446.casalemedia.com
+a3482.casalemedia.com
+a3608.casalemedia.com
+a3825.casalemedia.com
 a4474.casalemedia.com
 a4543.casalemedia.com
 a5114.casalemedia.com
+a532.casalemedia.com
 as-sec.casalemedia.com
 as.casalemedia.com
 casalemedia.com
