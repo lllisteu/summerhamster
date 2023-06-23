@@ -1,0 +1,6 @@
+# label   : qualaroo.com
+# tags    : tracking
+# harvest : qualaroo
+
+cl.qualaroo.com
+dntcl.qualaroo.com
