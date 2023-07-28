@@ -8,6 +8,7 @@ api-public.addthis.com
 api.addthis.com
 cache.addthiscdn.com
 ct5.addthis.com
+cw.addthis.com
 ds-api-public.addthis.com.edgekey.net
 m.addthis.com
 m.addthisedge.com

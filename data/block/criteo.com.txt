@@ -7,6 +7,7 @@ ads.eu.criteo.com
 b.fr.eu.criteo.com
 b.nl.eu.criteo.com
 bidder.am5.vip.prod.criteo.com
+bidder.criteo.co
 bidder.criteo.com
 bidder.par.vip.prod.criteo.com
 cas.am5.vip.prod.criteo.com
