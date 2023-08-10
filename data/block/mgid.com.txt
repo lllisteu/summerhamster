@@ -4,6 +4,7 @@
 
 c.mgid.com
 cdn.mgid.com
+clck.mgid.com
 cm.mgid.com
 jsc.mgid.com
 prebid.mgid.com

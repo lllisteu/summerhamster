@@ -5,4 +5,5 @@
 api-eu.cleverpush.com
 api.cleverpush.com
 geoip-api.cleverpush.com
+static-eu.cleverpush.com
 static.cleverpush.com
