@@ -1,0 +1,6 @@
+# label   : ozoneproject.com
+# tags    : advertising
+# harvest : ozone.*project
+
+elb.the-ozone-project.com
+prebid.the-ozone-project.com
