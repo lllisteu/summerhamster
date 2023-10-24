@@ -1,0 +1,5 @@
+# label   : elasticad.net
+# tags    : advertising
+# harvest : elasticad
+
+cdn.elasticad.net

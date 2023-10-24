@@ -1,0 +1,6 @@
+# label   : zephr.com
+# tags    : tracking
+# harvest : zephr
+
+assets.zephr.com
+mhnl-de-telegraaf.cdn.zephr.com

@@ -1,0 +1,8 @@
+# label   : vlyby.com
+# tags    : advertising,tracking
+# harvest : vlyby
+
+cdn.vlyby.com
+pixel.vlyby.com
+v2analytics.vlyby.com
+v2track.vlyby.com
