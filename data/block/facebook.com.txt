@@ -26,6 +26,8 @@ instagram.fybz2-1.fna.fbcdn.net
 l.facebook.com
 nl-nl.facebook.com
 scontent-ams4-1.xx.fbcdn.net
+scontent-cdg4-1.xx.fbcdn.net
+scontent-cdg4-2.xx.fbcdn.net
 scontent-cdt1-1.xx.fbcdn.net
 scontent-dfw5-1.xx.fbcdn.net
 scontent-dus1-1.xx.fbcdn.net
