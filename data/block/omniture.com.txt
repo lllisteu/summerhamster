@@ -31,6 +31,7 @@ cnn.com.102.122.2o7.net
 comeresaprensasl.tt.omtrdc.net
 crutchfield.ca.ssl.sc.omtrdc.net
 crutchfield.com.ssl.sc.omtrdc.net
+dell.com.ssl.d1.sc.omtrdc.net
 deutschepostag.112.2o7.net
 dowjoneson.com.ssl.sc.omtrdc.net
 environmentals.tt.omtrdc.net

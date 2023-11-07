@@ -1,0 +1,5 @@
+# label   : privacy-mgmt.com
+# tags    : popups
+# harvest : privacy-mgmt
+
+cdn.privacy-mgmt.com

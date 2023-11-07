@@ -1,0 +1,5 @@
+# label   : bbc.co.uk
+# tags    : 
+
+a1.api.bbc.co.uk
+mybbc-analytics.files.bbci.co.uk

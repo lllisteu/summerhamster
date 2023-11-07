@@ -21,6 +21,7 @@ fr-ca.facebook.com
 graph.facebook.com
 instagram.c10r.facebook.com
 instagram.fdac45-1.fna.fbcdn.net
+instagram.fsnc1-1.fna.fbcdn.net
 instagram.fvno1-1.fna.fbcdn.net
 instagram.fybz2-1.fna.fbcdn.net
 l.facebook.com
@@ -31,6 +32,7 @@ scontent-cdg4-2.xx.fbcdn.net
 scontent-cdt1-1.xx.fbcdn.net
 scontent-dfw5-1.xx.fbcdn.net
 scontent-dus1-1.xx.fbcdn.net
+scontent-fra5-2.xx.fbcdn.net
 scontent-iad3-1.xx.fbcdn.net
 scontent-iad3-2.xx.fbcdn.net
 scontent-lax3-1.xx.fbcdn.net
