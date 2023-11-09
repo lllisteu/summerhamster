@@ -2,4 +2,5 @@
 # tags    : advertising
 # harvest : creativecdn\.com
 
+creativecdn.com
 prebid-eu.creativecdn.com

@@ -2,4 +2,5 @@
 # tags    : advertising
 # harvest : e-planning\.net
 
+ads.us.e-planning.net
 pbjs.e-planning.net
