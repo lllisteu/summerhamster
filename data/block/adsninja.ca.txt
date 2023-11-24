@@ -1,0 +1,6 @@
+# label   : adsninja.ca
+# tags    : advertising
+# harvest : adsninja
+
+adsninjacdn.b-cdn.net
+cdn.adsninja.ca

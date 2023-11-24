@@ -1,0 +1,8 @@
+# label   : optad360.com
+# tags    : advertising
+# harvest : optad360
+
+cdn.optad360.net
+cmp.optad360.io
+get.optad360.io
+optad360-d.openx.net
