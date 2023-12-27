@@ -11,6 +11,7 @@ aax-fe.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 c.amazon-adsystem.com
+c.aps.amazon-adsystem.com
 client.aps.amazon-adsystem.com
 config.aps.amazon-adsystem.com
 fls-eu.amazon-adsystem.com
