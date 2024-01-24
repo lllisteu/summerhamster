@@ -1,5 +1,4 @@
 # label   : sentry.io
 # tags    : tracking
-# harvest : sentry\.io
 
 sentry.io

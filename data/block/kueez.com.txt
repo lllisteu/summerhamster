@@ -1,0 +1,8 @@
+# label   : kueez.com
+# tags    : advertising,tracking
+# harvest : kueez
+
+gtrack.kueezrtb.com
+static.kueezrtb.com
+track.kueezrtb.com
+u.kueezrtb.com
