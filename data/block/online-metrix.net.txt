@@ -1,0 +1,6 @@
+# label   : online-metrix.net
+# tags    : tracking
+# harvest : online-metrix
+
+eu-aa.online-metrix.net
+h-signifyd.online-metrix.net
