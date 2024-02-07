@@ -5,6 +5,8 @@
 ams-1-apex.go.sonobi.com
 ams-1-sync.go.sonobi.com
 apex.go.sonobi.com
+go.sonobi.com
+iad-2.go.sonobi.com
 mtrx.go.sonobi.com
 prod.sonobi-go.map.fastly.net
 purch-sync.go.sonobi.com

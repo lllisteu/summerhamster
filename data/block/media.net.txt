@@ -12,7 +12,9 @@ hblg.media.net
 hbx.media.net
 lg3.media.net
 lgncal.media.net
+lweborigin.media.net
 mycdn.media.net
+oba.media.net
 prebid.media.net
 prog-global.media.net
 warp.media.net

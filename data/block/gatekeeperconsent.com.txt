@@ -1,0 +1,6 @@
+# label   : gatekeeperconsent.com
+# tags    : popups
+# harvest : gatekeeperconsent
+
+privacy.gatekeeperconsent.com
+the.gatekeeperconsent.com

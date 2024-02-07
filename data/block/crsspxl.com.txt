@@ -2,4 +2,5 @@
 # tags    : tracking
 # harvest : crsspxl
 
+optout.crsspxl.com
 tag.crsspxl.com

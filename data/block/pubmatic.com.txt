@@ -5,6 +5,8 @@
 
 ads.pubmatic.com
 aktrack.pubmatic.com
+apps.pubmatic.com
+cdn.pubmatic.com
 gads.pubmatic.com
 hbopenbid.pubmatic.com
 hbopenbid22000nf.pubmatic.com

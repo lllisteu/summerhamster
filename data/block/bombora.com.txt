@@ -6,3 +6,4 @@ cdn.ml314.com
 in.ml314.com
 ml314.com
 sentry.bombora.com
+vi.ml314.com

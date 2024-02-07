@@ -1,0 +1,6 @@
+# label   : matomo.org
+# tags    : tracking
+# harvest : matomo
+
+matomo.openstreetmap.org
+wdi.matomo.cloud
