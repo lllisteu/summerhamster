@@ -2,6 +2,7 @@
 # tags    : advertising,tracking
 # harvest : kueez
 
+exchange.kueezrtb.com
 gtrack.kueezrtb.com
 static.kueezrtb.com
 track.kueezrtb.com

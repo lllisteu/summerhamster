@@ -4,3 +4,4 @@
 
 assets.zephr.com
 mhnl-de-telegraaf.cdn.zephr.com
+ny-post-ny-post.cdn.zephr.com
