@@ -2,5 +2,7 @@
 # tags    : tracking
 # harvest : online-metrix
 
+aa.online-metrix.net
 eu-aa.online-metrix.net
+h-ebay.online-metrix.net
 h-signifyd.online-metrix.net

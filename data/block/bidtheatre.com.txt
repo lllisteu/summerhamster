@@ -1,0 +1,6 @@
+# label   : bidtheatre.com
+# tags    : advertising
+# harvest : bidtheatre
+
+adsby.bidtheatre.com
+creatives.bidtheatre.com

@@ -10,3 +10,4 @@ fw.adsafeprotected.com
 iepixel.adsafeprotected.com
 pixel.adsafeprotected.com
 static.adsafeprotected.com
+unified.adsafeprotected.com
