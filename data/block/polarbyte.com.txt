@@ -3,3 +3,5 @@
 # harvest : polarbyte
 
 api.polarbyte.com
+cdn.polarbyte.com
+sp-eu.dev.polarbyte.com
