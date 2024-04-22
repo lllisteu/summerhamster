@@ -1,0 +1,7 @@
+# label   : flashtalking.com
+# tags    : tracking,advertising
+# harvest : flashtalking\.com
+
+ad-events.flashtalking.com
+cdn.flashtalking.com
+servedby.flashtalking.com

@@ -3,6 +3,7 @@
 # harvest : bidswitch
 
 ghent-aws-fr.bidswitch.net
+ghent-gce-nl.bidswitch.net
 grid.bidswitch.net
 pool.grid-data.bidswitch.net
 x.bidswitch.net

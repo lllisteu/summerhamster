@@ -1,0 +1,5 @@
+# label   : ad-score.com
+# tags    : tracking,advertising
+# harvest : ad-score\.com
+
+data.ad-score.com

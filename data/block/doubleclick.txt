@@ -35,6 +35,7 @@
 ad.doubleclick.net
 adclick.g.doubleclick.net
 ads-bid.l.doubleclick.net
+adx.g.doubleclick.net
 bid.g.doubleclick.net
 cm.g.doubleclick.net
 dart.l.doubleclick.net
