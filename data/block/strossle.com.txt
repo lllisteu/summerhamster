@@ -3,4 +3,5 @@
 # harvest : strossle|sprinklecontent
 
 assets.strossle.com
+proxy.strossle.it
 widgets.sprinklecontent.com

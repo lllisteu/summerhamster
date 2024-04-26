@@ -1,0 +1,6 @@
+# label   : bannerheroes.com
+# tags    : advertising
+# harvest : bannerheroes
+
+creatives.bannerheroes.com
+creatives.bannerheroes.nl

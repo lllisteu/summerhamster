@@ -5,6 +5,7 @@
 akamai.smartadserver.com.edgesuite.net
 csync-eu.smartadserver.com
 csync-global.smartadserver.com
+csync.smartadserver.com
 diff.smartadserver.com
 eqx-tmk-geoloc.smartadserver.com
 eqx.smartadserver.com

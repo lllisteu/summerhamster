@@ -5,6 +5,8 @@
 
 ad.crwdcntrl.net
 bcp.crwdcntrl.net
+bcp.st.crwdcntrl.net
+bunker-privacy-gateway-eu-west-1.st.crwdcntrl.net
 id.crwdcntrl.net
 privacy.crwdcntrl.net
 sync.crwdcntrl.net
