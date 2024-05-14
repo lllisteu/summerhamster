@@ -2,5 +2,7 @@
 # tags    : tracking
 # harvest : matomo
 
+guimet.matomo.cloud
+matomo.bruecke-museum.de
 matomo.openstreetmap.org
 wdi.matomo.cloud
