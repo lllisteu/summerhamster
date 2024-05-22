@@ -1,0 +1,6 @@
+# label       : blogher.com
+# tags        : advertising
+# harvest     : blogherads
+# wikidata_id : Q4927342
+
+ads.blogherads.com

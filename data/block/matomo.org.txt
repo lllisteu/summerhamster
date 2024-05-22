@@ -2,7 +2,10 @@
 # tags    : tracking
 # harvest : matomo
 
+cdn.matomo.cloud
 guimet.matomo.cloud
 matomo.bruecke-museum.de
+matomo.museum-digital.org
 matomo.openstreetmap.org
+matomo.tg.ch
 wdi.matomo.cloud
