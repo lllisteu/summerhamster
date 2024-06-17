@@ -7,6 +7,7 @@ bbc.gscontxt.net
 euronews-ams.gscontxt.net
 fairfaxmedia-ams.gscontxt.net
 fairfaxmedia.gscontxt.net
+grapeshot.mediahuisgroup.com
 hearst-useast.gscontxt.net
 hearst.gscontxt.net
 iqdigital-ams.gscontxt.net

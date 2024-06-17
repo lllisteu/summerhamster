@@ -11,6 +11,7 @@ ads-talpa.adhese.com
 ads-tmg.adhese.com
 pool-businessinsider.adhese.com
 pool-candid.adhese.com
+pool-igmn.adhese.com
 pool-mannenmedia.adhese.com
 pool-newskoolmedia.adhese.com
 pool-nrcmedia.adhese.com

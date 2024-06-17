@@ -3,9 +3,15 @@
 # harvest : matomo
 
 cdn.matomo.cloud
+grenoblealpesmetropole.matomo.cloud
 guimet.matomo.cloud
+kunsthallebadenbaden.matomo.cloud
 matomo.bruecke-museum.de
+matomo.labrmngp.fr
+matomo.museum-digital.de
 matomo.museum-digital.org
 matomo.openstreetmap.org
 matomo.tg.ch
+matomo.valueforyou.cineca.it
+sdvmatomo.slub-dresden.de
 wdi.matomo.cloud

@@ -3,6 +3,7 @@
 # harvest : freewheel|fwmrm
 
 29773.v.fwmrm.net
+7b936.v.fwmrm.net
 bea4.v.fwmrm.net
 cue.v.fwmrm.net
 g1.v.fwmrm.net

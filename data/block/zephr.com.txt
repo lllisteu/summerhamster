@@ -6,3 +6,4 @@ assets.zephr.com
 dmg-mailonline.cdn.zephr.com
 mhnl-de-telegraaf.cdn.zephr.com
 ny-post-ny-post.cdn.zephr.com
+zephr-v4.nypost.com

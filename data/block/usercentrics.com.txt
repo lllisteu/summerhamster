@@ -1,0 +1,10 @@
+# label   : usercentrics.com
+# tags    : tracking,popups
+# harvest : usercentrics
+
+api.usercentrics.eu
+app.usercentrics.eu
+consent-api.service.consent.usercentrics.eu
+graphql.usercentrics.eu
+privacy-proxy.usercentrics.eu
+uct.service.usercentrics.eu

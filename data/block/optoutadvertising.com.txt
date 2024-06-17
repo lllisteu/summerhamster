@@ -4,3 +4,4 @@
 
 adserving.optoutadvertising.com
 cdn.optoutadvertising.com
+proxy.optoutadvertising.com
