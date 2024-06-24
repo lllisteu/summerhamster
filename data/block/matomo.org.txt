@@ -13,5 +13,6 @@ matomo.museum-digital.org
 matomo.openstreetmap.org
 matomo.tg.ch
 matomo.valueforyou.cineca.it
+matomo.www.hathitrust.org
 sdvmatomo.slub-dresden.de
 wdi.matomo.cloud
