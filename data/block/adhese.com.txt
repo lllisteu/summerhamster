@@ -2,6 +2,7 @@
 # tags    : advertising
 # harvest : adhese
 
+ads-adswag.adhese.com
 ads-candid.adhese.com
 ads-mannenmedia.adhese.com
 ads-marktplaats.adhese.com

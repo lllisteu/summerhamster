@@ -6,5 +6,6 @@ api.usercentrics.eu
 app.usercentrics.eu
 consent-api.service.consent.usercentrics.eu
 graphql.usercentrics.eu
+img.sct.eu1.usercentrics.eu
 privacy-proxy.usercentrics.eu
 uct.service.usercentrics.eu

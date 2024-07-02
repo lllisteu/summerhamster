@@ -1,0 +1,8 @@
+# label   : caroda.io
+# tags    : advertising
+# harvest : caroda
+
+ads.caroda.io
+api.caroda.io
+publisher.caroda.io
+westeurope2.caroda.io

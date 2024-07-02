@@ -1,0 +1,9 @@
+# label   : browsi.com
+# tags    : advertising
+# harvest : browsi[^n]
+
+ai.browsiprod.com
+cdn.browsiprod.com
+demand-engine.browsiprod.com
+events.browsiprod.com
+yield-manager.browsiprod.com

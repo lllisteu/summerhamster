@@ -1,0 +1,7 @@
+# label   : requestmetrics.com
+# tags    : tracking
+# harvest : requestmetrics
+
+cdn.requestmetrics.com
+in.requestmetrics.com
+requestmetrics.b-cdn.net
