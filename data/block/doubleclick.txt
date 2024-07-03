@@ -56,5 +56,6 @@ static.doubleclick.net
 stats.g.doubleclick.net
 stats.l.doubleclick.net
 survey.g.doubleclick.net
+www.doubleclick.net
 www.doubleclickbygoogle.com
 www3.doubleclick.net

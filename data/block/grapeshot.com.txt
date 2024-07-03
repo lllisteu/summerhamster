@@ -12,6 +12,7 @@ hearst-useast.gscontxt.net
 hearst.gscontxt.net
 iqdigital-ams.gscontxt.net
 irishtimes.grapeshot.co.uk
+le-monde-ams.gscontxt.net
 pacmags-ash.gscontxt.net
 pacmags.gscontxt.net
 porky.pool.gscontxt.net
