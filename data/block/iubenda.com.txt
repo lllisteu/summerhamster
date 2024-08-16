@@ -1,0 +1,10 @@
+# label   : iubenda.com
+# tags    : 
+# harvest : iubenda
+
+cdn-iubenda.b-cdn.net
+cdn.iubenda.com
+cs-iubenda.b-cdn.net
+cs.iubenda.com
+hits-i.iubenda.com
+hits-iubenda.b-cdn.net
