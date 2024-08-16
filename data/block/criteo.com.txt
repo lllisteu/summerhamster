@@ -27,6 +27,7 @@ dis.eu.criteo.com
 dynamic.am5.vip.prod.criteo.com
 dynamic.criteo.com
 dynamic.par.vip.prod.criteo.com
+grid-bidder.criteo.com
 gum.am5.vip.prod.criteo.com
 gum.criteo.com
 gum.par.vip.prod.criteo.com
@@ -34,6 +35,7 @@ pix.am5.vip.prod.criteo.net
 pix.eu.criteo.net
 rdi.am5.vip.prod.criteo.com
 sslwidget.criteo.com
+ssp-bidder.nl3.vip.prod.criteo.com
 static.am5.vip.prod.criteo.net
 static.criteo.net
 static.par.vip.prod.criteo.net

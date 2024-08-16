@@ -4,4 +4,5 @@
 
 ad-events.flashtalking.com
 cdn.flashtalking.com
+d9.flashtalking.com
 servedby.flashtalking.com

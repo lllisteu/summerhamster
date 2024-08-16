@@ -6,8 +6,10 @@
 buttons-config.sharethis.com
 httplogserver-lb.global.unified-prod.sharethis.net
 l.sharethis.com
+pd.sharethis.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
+thirdparty-logserver-lb.global.unified-prod.sharethis.net
 w.sharethis.com
 ws.sharethis.com
 www.sharethis.com

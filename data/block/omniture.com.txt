@@ -18,6 +18,7 @@ ansible.com.ssl.sc.omtrdc.net
 apple.tt.omtrdc.net
 appleglobal.102.112.2o7.net
 atlanticmedia.sc.omtrdc.net
+bmwag.d3.sc.omtrdc.net
 bol.com.ssl.d1.sc.omtrdc.net
 bostonglobe.com.ssl.sc.omtrdc.net
 casiocomputer.tt.omtrdc.net

@@ -6,6 +6,7 @@ cdn.matomo.cloud
 grenoblealpesmetropole.matomo.cloud
 guimet.matomo.cloud
 kunsthallebadenbaden.matomo.cloud
+matomo.belvedere.at
 matomo.bruecke-museum.de
 matomo.labrmngp.fr
 matomo.museum-digital.de

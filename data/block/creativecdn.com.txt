@@ -4,4 +4,6 @@
 
 creativecdn.com
 prebid-eu.creativecdn.com
+prebid-us-lat.inv.creativecdn.com
+prebid-us.creativecdn.com
 us.creativecdn.com

@@ -20,6 +20,8 @@ fbcdn-sphotos-e-a.akamaihd.net
 fr-ca.facebook.com
 graph.facebook.com
 instagram.c10r.facebook.com
+instagram.fbkk9-2.fna.fbcdn.net
+instagram.fbth8-1.fna.fbcdn.net
 instagram.fdac45-1.fna.fbcdn.net
 instagram.fsnc1-1.fna.fbcdn.net
 instagram.fvno1-1.fna.fbcdn.net
