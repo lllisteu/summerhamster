@@ -5,6 +5,7 @@
 a.teads.tv
 at.teads.tv
 cdn.teads.tv
+p.teads.tv
 s8t.teads.tv
 sync.teads.tv
 t.teads.tv

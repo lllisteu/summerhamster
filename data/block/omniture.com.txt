@@ -20,6 +20,7 @@ appleglobal.102.112.2o7.net
 atlanticmedia.sc.omtrdc.net
 bmwag.d3.sc.omtrdc.net
 bol.com.ssl.d1.sc.omtrdc.net
+boston.com.102.112.2o7.net
 bostonglobe.com.ssl.sc.omtrdc.net
 casiocomputer.tt.omtrdc.net
 cbc.ca.102.122.2o7.net
@@ -75,6 +76,7 @@ oracle.112.2o7.net
 philips.112.2o7.net
 philipselectronicsne.tt.omtrdc.net
 philipslighting.d3.sc.omtrdc.net
+politico.eu.ssl.d2.sc.omtrdc.net
 postnl.nl.ssl.sc.omtrdc.net
 premierfarnell.tt.omtrdc.net
 randomhouse.com.102.122.2o7.net
